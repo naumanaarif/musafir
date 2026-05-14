@@ -1,0 +1,52 @@
+# Musafir AI — Python Backend Dependencies
+# Generated from spec-kit.md v1.1
+
+# ── Core Web Framework ──────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# ── AI / Gemini ─────────────────────────────────────────────
+google-generativeai
+google-cloud-aiplatform
+vertexai
+
+# ── RAG / LangChain ─────────────────────────────────────────
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-google-vertexai
+langchain-groq
+chromadb
+faiss-cpu
+sentence-transformers
+tiktoken
+pypdf
+
+
+
+# ── Data Processing & Cleaning ──────────────────────────────
+pandas
+numpy
+python-slugify
+
+# ── Google Cloud APIs ────────────────────────────────────────
+google-cloud-speech
+google-cloud-translate
+googlemaps
+
+# ── Firebase ─────────────────────────────────────────────────
+firebase-admin
+
+# ── Utilities ────────────────────────────────────────────────
+httpx
+aiofiles
+python-multipart
+
+# ── Agent / Tools (optional) ─────────────────────────────────
+crewai
+crewai-tools
+tavily-python
+
