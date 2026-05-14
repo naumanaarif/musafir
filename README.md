@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Saif Ali Khan\.gemini\antigravity\brain\21fac335-c1f7-40fd-a1b5-da61cfc8ac83\musafir_minimal_banner_1778759861814.png" alt="Musafir AI Banner" width="100%">
+  <img src="musafir_minimal_banner_1778759861814.png" alt="Musafir AI Banner" width="100%">
 </p>
 
 # Musafir AI 🚌 — Karachi Transit Planner
