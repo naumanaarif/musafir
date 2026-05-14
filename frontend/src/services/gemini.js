@@ -89,8 +89,8 @@ export async function getJourneyGuidance(origin, destination, legs = []) {
     // Fall through to direct Gemini
   }
 
-  // 2. Fallback: direct Gemini 2.5 Pro call (if backend is offline)
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-pro' });
+  // 2. Fallback: direct Gemini call (if backend is offline)
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite' });
 
   const legsText = legs.length
     ? legs.map((l, i) => `${i + 1}. ${l.instructions} (${l.duration || ''})`).join('\n')

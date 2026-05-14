@@ -18,12 +18,20 @@ from supabase import create_client, Client
 # ── Config ────────────────────────────────────────────────────────────────────
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://gehrzlsyunmpbakyrkcc.supabase.co")
 SUPABASE_KEY = os.environ.get("SUPABASE_SERVICE_KEY", "")   # service role for writes
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCGYsyBCx2bXqDtRZGtIuL1-nEd1iqT3vQ")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 DB_PATH = os.path.join(os.path.dirname(__file__), "musafir.db")
-EMBEDDING_MODEL = "gemini-embedding-exp-03-07"   # latest stable embedding model
+EMBEDDING_MODEL = "text-embedding-004"   # standard stable embedding model
 
 # ── Init clients ──────────────────────────────────────────────────────────────
 client = genai.Client(api_key=GEMINI_API_KEY)
+
+print("Checking available models for your API key...")
+try:
+    for m in client.models.list():
+        if "embedContent" in str(m.supported_variants) or "embedding" in m.name.lower():
+            print(f" [FOUND EMBEDDING MODEL] -> {m.name}")
+except Exception as e:
+    print(f"Could not list models: {e}")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def read_sqlite():

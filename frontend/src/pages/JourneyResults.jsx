@@ -64,6 +64,14 @@ function parseLegs(result) {
   }));
 }
 
+function modeIcon(mode) {
+  switch (mode) {
+    case 'TRANSIT': return 'directions_bus';
+    case 'WALKING': return 'directions_walk';
+    default: return 'directions_car';
+  }
+}
+
 export default function JourneyResults() {
   const navigate = useNavigate();
   const { origin, destination, directionsResult, setDirectionsResult, geminiSummary, setGeminiSummary } = useJourney();
@@ -73,38 +81,67 @@ export default function JourneyResults() {
   const [aiLoading, setAiLoading] = useState(false);
   const [duration, setDuration] = useState('');
   const [distance, setDistance] = useState('');
+  const [ragRoutes, setRagRoutes] = useState([]);
 
   // Redirect if no origin/destination set
   useEffect(() => {
-    if (!origin && !destination) navigate('/');
-  }, []);
+    if (!origin && !destination) {
+      navigate('/');
+      return;
+    }
 
-  const handleDirectionsResult = useCallback(async (result, mode) => {
+    // Fetch local routes from Supabase RAG
+    if (origin && destination) {
+      fetch('http://localhost:8000/api/search-routes', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: `route from ${origin.name} to ${destination.name}`,
+          origin: origin.name,
+          destination: destination.name,
+          limit: 1
+        })
+      })
+      .then(r => r.json())
+      .then(data => setRagRoutes(data.routes || []))
+      .catch(err => console.error('RAG fetch failed:', err));
+    }
+  }, [origin, destination, navigate]);
+
+  const handleDirectionsResult = useCallback((result, mode) => {
+    if (!result) return;
     setDirectionsResult(result);
     setTravelMode(mode);
 
-    if (result) {
-      const leg = result.routes[0]?.legs[0];
-      setDuration(leg?.duration?.text || '');
-      setDistance(leg?.distance?.text || '');
-      const parsedLegs = parseLegs(result);
-      setLegs(parsedLegs);
+    const leg = result.routes[0]?.legs[0];
+    setDuration(leg?.duration?.text || '');
+    setDistance(leg?.distance?.text || '');
+    const parsedLegs = parseLegs(result);
+    setLegs(parsedLegs);
+  }, []);
 
-      // Fetch Gemini guidance
-      if (!geminiSummary) {
+  // Separate effect for Gemini guidance to avoid re-render loops/flickering
+  useEffect(() => {
+    if (legs.length > 0 && !geminiSummary && !aiLoading) {
+      const fetchGuidance = async () => {
         setAiLoading(true);
         try {
           const summary = await getJourneyGuidance(
             origin?.name || 'Origin',
             destination?.name || 'Destination',
-            parsedLegs
+            legs
           );
           setGeminiSummary(summary);
-        } catch { setGeminiSummary(''); }
-        setAiLoading(false);
-      }
+        } catch (err) {
+          console.error('AI Guidance failed:', err);
+          setGeminiSummary('Transit advice currently unavailable.');
+        } finally {
+          setAiLoading(false);
+        }
+      };
+      fetchGuidance();
     }
-  }, [origin, destination, geminiSummary]);
+  }, [legs, origin, destination, geminiSummary, aiLoading]);
 
   const modeIcon = (mode) => {
     if (mode === 'TRANSIT') return 'directions_bus';
@@ -149,6 +186,24 @@ export default function JourneyResults() {
 
           {/* Scrollable content */}
           <div className="flex-1 overflow-y-auto no-scrollbar px-5 py-4 space-y-4">
+
+            {/* Local Bus Match (from Supabase) */}
+            {ragRoutes.length > 0 && (
+              <div className="bg-primary/5 border border-primary/20 rounded-xl p-4 mb-4">
+                <div className="flex items-center gap-2 mb-2">
+                  <span className="material-symbols-outlined text-primary text-[16px]">directions_bus</span>
+                  <span className="text-[10px] font-bold text-primary uppercase tracking-wider">Local Bus Found</span>
+                </div>
+                <h3 className="text-sm font-bold text-on-surface mb-1">{ragRoutes[0].name}</h3>
+                <p className="text-[11px] text-on-surface-variant leading-tight mb-3">
+                  Route: {ragRoutes[0].origin} to {ragRoutes[0].destination}
+                </p>
+                <div className="flex justify-between items-center text-[11px]">
+                  <span className="font-bold text-primary">PKR {ragRoutes[0].base_fare || '25-50'}</span>
+                  <span className="text-on-surface-variant">Semantic Match</span>
+                </div>
+              </div>
+            )}
 
             {/* Best route card */}
             {duration && (

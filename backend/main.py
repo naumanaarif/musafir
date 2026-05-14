@@ -89,7 +89,11 @@ async def search_routes(req: SearchRequest):
         query_text = f"route to {req.destination}"
 
     try:
-        query_embedding = embed(query_text)
+        res = gemini_client.models.embed_content(
+            model="text-embedding-004",
+            contents=query_text
+        )
+        query_embedding = res.embeddings[0].values
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Embedding failed: {e}")
 
@@ -98,7 +102,7 @@ async def search_routes(req: SearchRequest):
         result = supabase.rpc("search_routes", {
             "query_embedding": query_embedding,
             "match_count": req.limit,
-            "similarity_threshold": 0.2,
+            "similarity_threshold": 0.05, # Lowered threshold to show more results
         }).execute()
         routes = result.data or []
     except Exception as e:
@@ -180,19 +184,19 @@ Be friendly and specific to Karachi. Reply in plain text only."""
     try:
         # Use the modern google-genai client
         response = gemini_client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-2.5-flash-lite",
             contents=prompt
         )
-        return {"guidance": response.text, "model": "gemini-2.0-flash"}
+        return {"guidance": response.text, "model": "gemini-2.5-flash-lite"}
     except Exception as e:
         print(f"AI Guidance error: {e}")
-        # Fallback to 1.5 flash
+        # Fallback to flash-latest
         try:
             response = gemini_client.models.generate_content(
-                model="gemini-1.5-flash",
+                model="gemini-1.5-flash-latest",
                 contents=prompt
             )
-            return {"guidance": response.text, "model": "gemini-1.5-flash"}
+            return {"guidance": response.text, "model": "gemini-1.5-flash-latest"}
         except Exception as e2:
             raise HTTPException(status_code=500, detail=str(e2))
 
