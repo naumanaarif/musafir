@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Context files
+db-specs.pdf
+spec-kit.md
+stitch-screens

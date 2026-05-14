@@ -1,0 +1,1802 @@
+"Vehicle Name","Vehicle URL","Vehicle Image","Vehicle Type","Total Stops","Starting Point","Ending Point","Station List"
+"BRT Metro Green Line","https://mnzil.app/./vehicles/BRT-Metro-Green-Line","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","BRT Metro Bus","23","Abdullah Chowk","Numaish Chowrangi","Abdullah Chowk
+KDA Flats- Surjani
+Karimi Chowrangi
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Annu Bhai Park
+Enquiry Office
+Nazimabad No. 1
+Sanitary Market (Gulbahar)
+Lasbela
+Patel Para (Guru Mandir)
+Numaish Chowrangi"
+"BRT Metro Orange Line","https://mnzil.app/./vehicles/BRT-Metro-Orange-Line","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","BRT Metro Bus","4","Board Office Chowrangi","Nadra Center - Orangi Town","Board Office Chowrangi"
+"11-C","https://mnzil.app/./vehicles/11-C","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","26","Akhtar Colony","Dow Ojha Campus",""
+"16","https://mnzil.app/./vehicles/16","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","17","Bhains Colony Mor","Saddar","Bhains Colony Mor
+Manzil Pump
+Quaidabad
+Malir Court
+Malir 15
+Kala Board Malir
+Malir Halt
+Chota Gate - Shah Faisal Colony
+Shah Faisal Colony Gate
+Nata Khan
+Drigh Road
+Karsaz
+Baloch Colony Stop
+Lal Kothi Shahrah-e-Faisal
+Nursery
+Gora Qabaristan
+Saddar"
+"20","https://mnzil.app/./vehicles/20","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","27","Ittehad Town","Shireen Jinnah Colony","Ittehad Town
+Gulshan Ghazi
+Baldia 9
+Baldia 8
+Rubi Mor
+Police Training Center Saeedabad
+Mach Mor
+Baldia 4
+Baldia 3
+Baldia 2
+Rasheedabad
+GCT College Mor
+SITE Police Station - A
+METRO Manghopir Store
+Habib Bank Chowrangi
+Golimar Old
+Rexer Line
+Garden
+Seventh-day Adventist Hospital
+Saddar
+Cantt station
+Do Talwar
+Driving License Office Clifton
+Abdullah Shah Ghazi
+Bilawal Chowrangi
+Ziauddin University - Clifton
+Shireen Jinnah Colony"
+"4-E","https://mnzil.app/./vehicles/4-E","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","0","undefined","undefined",""
+"4-H","https://mnzil.app/./vehicles/4-H","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","2","4K Chowrangi","Cantt station","4K Chowrangi"
+"4-L","https://mnzil.app/./vehicles/4-L","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","22","Al Asif Square","Bolton Market",""
+"4-Q","https://mnzil.app/./vehicles/4-Q","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","22","Gulzar-e-hijri","Tower","Gulzar-e-hijri
+Paradise Bakery
+Al Asif Square
+Sohrab Goth
+Ancholi
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Guru Mandir
+Jehangir Road
+Numaish Chowrangi
+Taj Complex Numaish
+Seventh-day Adventist Hospital
+Mobile Market Saddar
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+Light House
+City Court
+Bolton Market
+Tower"
+"51","https://mnzil.app/./vehicles/51","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","3","New Town","Malir Halt","New Town
+Liaquat national Hospital
+Malir Halt"
+"51A","https://mnzil.app/./vehicles/51A-","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","31","Lee Market","Ghaghar Phatak - Bin Qasim Town","Lee Market
+Garden
+Numaish Chowrangi
+New Town
+Liaquat national Hospital
+Aga Khan Hospital
+National Stadium
+Millennium Mall
+Central Ordnance Depot (COD)
+Drigh Road
+Nata Khan
+Shah Faisal Colony Gate
+Star Gate - Shah Faisal Colony
+Chota Gate - Shah Faisal Colony
+Wireless Gate Bus Stop
+Malir Halt
+Kala Board Malir
+Malir 15
+Malir Court
+Murghi Khana
+Quaidabad
+Manzil Pump
+Bhains Colony Mor
+FAST University - Bhains Colony
+Chowkandi Mor
+Abdullah Goth
+Port Qasim Mor
+Razzaqabad
+Steel Mill Mor
+Pipri Goth
+Ghaghar Phatak - Bin Qasim Town"
+"52","https://mnzil.app/./vehicles/52","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","2","Malir Halt","Liaquat national Hospital","Malir Halt
+Liaquat national Hospital"
+"55","https://mnzil.app/./vehicles/55","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","25","Memon Goth - Gadap Town","Lee Market","Memon Goth - Gadap Town
+Malir 15
+Kala Board Malir
+Malir Halt
+Wireless Gate Bus Stop
+Chhota Gate
+Star Gate - Shah Faisal Colony
+Nata Khan
+Drigh Road
+PAF Base Faisal
+Karsaz
+Pir Pagara Bus Stop
+National Stadium
+Aga Khan Hospital
+Liaquat national Hospital
+New Town
+Jail Chowrangi
+peoples secretariat
+Guru Mandir
+Lasbela
+Soldier Bazaar
+Garden
+Ranchore Line
+Old Haji Camp - Timber Market
+Lee Market"
+"7-C","https://mnzil.app/./vehicles/7-C","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","Buffer Zone","Dockyard","Buffer Zone
+DC Office Central
+Peoples Chowrangi
+Karachi Medical and Dental College
+Landi Kotal Chowrangi Roundabout
+Ziauddin Hospital - North Nazimabad
+Moosa Colony - Gulberg Town
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Daak Khana - Liaquatabad
+Rizvia Society - Nazimabad no 1
+Khamosh Colony - Nazimabad
+Bara Board
+Nauras Chowrangi - SITE Karachi
+Habib Bank Chowrangi
+Haroonabad
+Siemens Chowrangi
+Ghani Chowrangi
+Shershah
+Shaheen Hotel - Shershah
+Shershah Kabari Market
+Pankha Hotel - Shershah
+Chakiwara
+Lee Market
+Khajor Bazar - Lee Market
+Sarafa Bazar
+Kharadar
+Tower
+Dockyard"
+"7-Star","https://mnzil.app/./vehicles/7-Star","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","23","Orangi 11","Khokhrapar",""
+"9-C","https://mnzil.app/./vehicles/9-C","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","Shireen Jinnah Colony","Model Colony Mor","Shireen Jinnah Colony
+Ziauddin University - Clifton
+Bilawal Chowrangi
+Abdullah Shah Ghazi
+Badar Commercial 26 Street
+DHA phase 6
+Saudi Embassy - DHA Phase 5
+Gizri
+Punjab Chowrangi
+Cantt station
+Jinnah Hospital
+Kala Pul
+FTC Building
+Gora Qabaristan
+Nursery
+Lal Kothi Shahrah-e-Faisal
+Fine House
+Baloch Colony Stop
+Awami Markaz
+Karsaz
+PAF Museum
+PAF Base Faisal
+Drigh Road
+Nata Khan
+Shah Faisal Colony Gate
+Star Gate - Shah Faisal Colony
+Wireless Gate Bus Stop
+Malir Halt
+Model Colony Mor"
+"A-25","https://mnzil.app/./vehicles/A-25","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","27","Ahsanabad","Yousuf Goth",""
+"A-3","https://mnzil.app/./vehicles/A-3","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","Maymar Mor","Dockyard","Maymar Mor
+Al Asif Square
+Sohrab Goth
+Abul Hasan Isphani Road
+Paradise Bakery
+Gulshan Police Station
+Maskan Chowrangi
+Disco Bakers and Sweets
+Gulshan Chowrangi
+NIPA Chowrangi
+Federal Urdu University - University Rd
+Old Sabzi Mandi
+Expo Center
+Hassan Square
+Essa Nagri
+Ghareebabad
+Liaquatabad No.10 - Lalukhet
+Nazimabad Petrol Pump
+Habib Bank Chowrangi
+Siemens Chowrangi
+Haroonabad
+Ghani Chowrangi
+Shershah
+Meezan Head Office
+Gulbai
+Agra Taj Colony
+IC Bridge
+West Wharf road
+Dockyard"
+"Abdullah","https://mnzil.app/./vehicles/Abdullah","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","15","Shershah","Manzil Pump","Shershah
+Meezan Head Office
+Gulbai
+Agra Taj Colony
+Tower
+American Embassy Karachi
+Boat Basin
+Submarine Chowk
+Punjab Chowrangi
+Akhtar Colony
+Korangi Crossing Road
+Defence Mor
+Quaidabad
+Qayyumabad
+Manzil Pump"
+"Al Azad","https://mnzil.app/./vehicles/Al-Azad","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","2","Karachi Marriott Hotel","Safoora Chowrangi","Karachi Marriott Hotel
+Safoora Chowrangi"
+"Al Khair","https://mnzil.app/./vehicles/Al-Khair-","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","8","Musharraf Colony - Keamari","Lee Market","Musharraf Colony - Keamari
+Naval Colony
+Mach Mor
+Shershah
+Shershah Kabari Market
+Pankha Hotel - Shershah
+Miran Nakka Lyari
+Lee Market"
+"Bilal","https://mnzil.app/./vehicles/Bilal","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","33","Ittehad Town","Dawood Roundabout - Saddar","Nazimabad No. 1"
+"D-1","https://mnzil.app/./vehicles/D-1","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","30","Sindhi Goth","Abidabad","Sindhi Goth
+Pipri Goth
+Razzaqabad
+Bhains Colony Mor
+Manzil Pump
+Quaidabad
+Malir Court
+Malir 15
+Malir Halt
+Star Gate - Shah Faisal Colony
+Shah Faisal Colony Gate
+Nata Khan
+Drigh Road
+PAF Base Faisal
+Karsaz
+Pir Pagara Bus Stop
+National Stadium
+Mashriq Centre
+Hassan Square
+Expo Center
+Essa Nagri
+Ghareebabad
+Liaquatabad No.10 - Lalukhet
+Nazimabad Petrol Pump
+Habib Bank Chowrangi
+Valika
+Frontier Morr Metroville
+Orangi 4
+Mominabad - Orangi Town
+Abidabad"
+"D-11","https://mnzil.app/./vehicles/D-11","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","52","Ittehad Town","Sharifabad - Korangi","Ittehad Town
+Pakora Chowk
+Baldia 8
+Baldia 9
+Bismillah Chowk
+Jungle School (Baldia)
+Baldia 19-D
+Baldia 7 Graveyard
+Rasheedabad
+GCT College Mor
+Ghani Chowrangi
+Siemens Chowrangi
+Habib Bank Chowrangi
+Nazimabad No. 1
+Nazimabad Petrol Pump
+Liaquatabad No.10 - Lalukhet
+Ghareebabad
+Baloch Hotel
+Essa Nagri
+Expo Center
+Hassan Square
+Civic Center
+Mashriq Centre
+National Stadium
+Pir Pagara Bus Stop
+PAF Museum
+Baloch Colony Stop
+Karsaz
+Base Montessori PAF
+Drigh Road
+Nata Khan
+Shah Faisal Colony Gate
+Star Gate - Shah Faisal Colony
+Chota Gate - Shah Faisal Colony
+Wireless Gate Bus Stop
+Malir Halt
+Kala Board Malir
+Malir 15
+Malir Court
+Quaidabad
+Dawood Chowrangi
+Future Colony - Landhi Town
+Mansehra Colony
+Murtaza Chowrangi
+Bilal Chowrangi
+Vita Chowrangi - Korangi
+Shan Chorangi - Korangi
+Brookes Chowrangi
+Godam Chowrangi
+Imtiaz Store - KPT Interchange
+Qayyumabad
+Sharifabad - Korangi"
+"D-17","https://mnzil.app/./vehicles/D-17","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","1","Quaidabad","Quaidabad","Quaidabad"
+"D-3","https://mnzil.app/./vehicles/D-3","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","13","Nagan Chowrangi","Indus Hospital - Korangi","Nagan Chowrangi
+Shafiq Mor
+Sohrab Goth
+Lucky One Mall
+Imtiaz Mega Store - Gulshan
+Gulshan Chowrangi
+NIPA Chowrangi
+Johar Mor
+Central Ordnance Depot (COD)
+Drigh Road
+Shah Faisal Colony Gate
+Singer Chowrangi
+Indus Hospital - Korangi"
+"D-7","https://mnzil.app/./vehicles/D-7","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","23","New Muzaffarabad Colony Landhi","Khadim Hussain Solangi Goth","New Muzaffarabad Colony Landhi
+Dawood Chowrangi
+Quaidabad
+Malir Court
+Malir 15
+Kala Board Malir
+Malir Halt
+Star Gate - Shah Faisal Colony
+Shah Faisal Colony Gate
+Nata Khan
+Drigh Road
+Millennium Mall
+Johar Mor
+Aladin Park
+NIPA Chowrangi
+Sir Syed University (Rashid Minhas Rd.)
+Gulshan Chowrangi
+Lucky One Mall
+Sohrab Goth
+Al Asif Square
+Punjab Adda - Bus Stand
+Jamali Flyover
+Khadim Hussain Solangi Goth"
+"Daata","https://mnzil.app/./vehicles/Daata","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","23","KDA Flats- Surjani","Badar Commercial 26 Street","KDA Flats- Surjani
+4K Chowrangi
+Godhra
+Shafiq Mor
+Lucky One Mall
+Imtiaz Mega Store - Gulshan
+Gulshan Chowrangi
+NIPA Chowrangi
+New Sabzi Mandi
+Hassan Square
+Jail Chowrangi
+Tariq Road
+Nursery
+Regent Plaza
+Jinnah Hospital
+Askari 1
+Cantt station
+Punjab Chowrangi
+Do Talwar
+Clifton
+Abdullah Shah Ghazi
+Dolmen Mall - Clifton
+Badar Commercial 26 Street"
+"F-11","https://mnzil.app/./vehicles/F-11","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","40","Pakhtoonabad","Bhains Colony Mor","Sakhi Hasan Chowrangi"
+"G-11","https://mnzil.app/./vehicles/G-11","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","38","Yousuf Goth","Maroora Goth Bus Stop","Yousuf Goth
+Hub River road
+Murshid Hospital
+Mach Mor
+Traffic Police Kiosk - Baldia 2
+Philips Factory - SITE Karachi
+SITE Police Station - A
+Metroville Khyber Gate
+Frontier Morr Metroville
+Badar Chowk
+Orangi 4
+Orangi 5
+Metro Cinema
+Banaras Bus Stop
+Abdullah Govt College for Women
+Board Office Chowrangi
+KDA Chowrangi
+Bank Quarters -- North Nazimabad
+Ziauddin Hospital - North Nazimabad
+Moosa Colony - Gulberg Town
+Karimabad - Meena Bazaar
+Naseerabad - Gulberg Town
+Water Pump
+Lucky One Mall
+Moti Mahal
+Gulshan Chowrangi
+NIPA Chowrangi
+Karachi Safari Park
+Metro Safari Store
+Abdullah Apartments - Gulistan-e-johar
+Johar Mor
+Continental Sweets & Bakers - Gulistan-e-Johar
+Johar Chowrangi
+Rabia City- Gulistan-e-Johar
+Pehlwan Goth
+Safoora Chowrangi
+Kiran Hospital
+Maroora Goth Bus Stop"
+"G-13","https://mnzil.app/./vehicles/G-13","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","7","Banaras Bus Stop","Karimabad - Meena Bazaar",""
+"G-17","https://mnzil.app/./vehicles/G-17","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","25","Mach Mor","Safoora Chowrangi","Board Office Chowrangi
+Hyderi Market
+Sakhi Hasan Chowrangi
+Erum Shopping
+Nagan Chowrangi"
+"G-19","https://mnzil.app/./vehicles/G-19","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","25","Hub filter plant","National Highway 5","Hub filter plant
+Sultanabad - New Karachi
+Shrine of Manghopir
+Naya nazimabad - Main Gate
+Qasba Mor
+Banaras Bus Stop
+Valika
+Habib Bank Chowrangi
+Bara Board
+Jahangirabad
+Golimar Old
+Khamosh Colony - Nazimabad
+Daak Khana - Liaquatabad
+Liaquatabad No.10 - Lalukhet
+Ghareebabad
+Essa Nagri
+NIPA Chowrangi
+Hassan Square
+Karachi Safari Park
+Metro Safari Store
+Aladin Park
+Johar Mor
+Johar Chowrangi
+Pehlwan Goth
+National Highway 5"
+"G-27","https://mnzil.app/./vehicles/G-27","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","32","Afridi Chowk - Chisti Nagar","Safoora Chowrangi","Afridi Chowk - Chisti Nagar
+Eid Gah Morh - Orangi
+L Block Rd - Aziz Nagar
+Sabri Chowk Rd - Orangi Town
+Urdu Chowk - Orangi Town
+Orangi No 10
+Orangi 4
+Orangi 5
+Metro Cinema
+Banaras Bus Stop
+Abdullah Govt College for Women
+Board Office Chowrangi
+KDA Chowrangi
+Ziauddin Hospital - North Nazimabad
+Landi Kotal Chowrangi Roundabout
+Peoples Chowrangi
+Buffer Zone
+Sohrab Goth
+Fazal Mill - Block 21 Federal B Area
+Lucky One Mall
+Imtiaz Mega Store - Gulshan
+Gulshan Chowrangi
+NIPA Chowrangi
+Karachi Safari Park
+Metro Safari Store
+Continental Sweets & Bakers - Gulistan-e-Johar
+Johar Chowrangi
+Johar Mor
+Pehlwan Goth
+PIA Society
+Bakhtawar Goth - Gulistan e Jauhar
+Safoora Chowrangi"
+"G-3","https://mnzil.app/./vehicles/G-3","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","40","Safoora Chowrangi","Mohajir Camp No. 7",""
+"G-7","https://mnzil.app/./vehicles/G-7","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","33","Safoora Chowrangi","Mohajir Camp","Safoora Chowrangi
+Dow Ojha Campus
+Mosamiyat
+Karachi Univerity - Siver Jubilee Gate
+NED University
+University Road
+NIPA Chowrangi
+Sir Syed University (Rashid Minhas Rd.)
+Old Sabzi Mandi
+Expo Center
+Hassan Square
+Civic Center
+New Town
+Bahadurabad
+Tariq Road
+Society Graveyard
+Khudadad Colony
+Numaish Chowrangi
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+City Court
+Bolton Market
+Tower
+Agra Taj Colony
+Gulbai
+Meezan Head Office
+Shershah
+Mohajir Camp No. 7
+Mohajir Camp No. 8
+Nai Abadi
+Gulshan Ghazi
+Mohajir Camp"
+"Gulistan","https://mnzil.app/./vehicles/Gulistan","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","35","Bhitaiabad","Saudi Embassy - DHA Phase 5","Bhitaiabad
+Habib University
+Johar Chowrangi
+Johar Mor
+NIPA Chowrangi
+Karachi Safari Park
+Metro Safari Store
+Federal Urdu University - University Rd
+Hassan Square
+Expo Center
+Civic Center
+New Town
+Jail Chowrangi
+Numaish Chowrangi
+Seventh-day Adventist Hospital
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+City Court
+Bolton Market
+Tower
+Bahria Complex 1
+Lalazar
+Bahria Complex 2
+Bahria Complex 3
+American Embassy Karachi
+Mai Kolachi Road
+Boat Basin
+Bilawal Chowrangi
+South City Hospital - Clifton
+Abdullah Shah Ghazi
+Khayaban-e-Ittehad
+DHA Phase 7
+Sea View - Clifton
+Saudi Embassy - DHA Phase 5"
+"Ilyas","https://mnzil.app/./vehicles/Ilyas","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","47","Ittehad Town","Bhains Colony Mor",""
+"Imran","https://mnzil.app/./vehicles/Imran","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","14","Hawksbay Beach","Qayyumabad","Hawksbay Beach
+Pakistan Marine Academy Maripur
+Gulbai
+Agra Taj Colony
+IC Bridge
+Kharadar
+Tower
+Boat Basin
+Punjab Chowrangi
+Gold Mark Shopping Mall 1
+Askari 1 - Karachi
+KPT Interchange
+Imtiaz Store - KPT Interchange
+Qayyumabad"
+"Khan","https://mnzil.app/./vehicles/Khan","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","35","Abdullah Chowk","Abdullah Shah Ghazi","Abdullah Chowk
+KDA Flats- Surjani
+Karimi Chowrangi
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Annu Bhai Park
+Enquiry Office
+Nazimabad No. 1
+Sanitary Market (Gulbahar)
+Lasbela
+Patel Para (Guru Mandir)
+Numaish Chowrangi"
+"Marwat","https://mnzil.app/./vehicles/Marwat","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","44","Bhudni Goth","Shireen Jinnah Colony","Bhudni Goth
+Hawksbay Beach
+Pakistan Marine Academy Maripur
+Truck Ada - Mauripur
+PAF Masroor Base - Mauripur
+Gulbai
+Agra Taj Colony
+ICI Bridge
+Kharadar
+Tower
+Bolton Market
+City Court
+Light House
+Civil Hospital
+Jama Cloth Market
+Urdu Bazar
+Numaish Chowrangi
+Khudadad Colony
+Tariq Road
+Allah Wali Chowrangi - Tariq Road
+Nursery
+Lal Kothi Shahrah-e-Faisal
+Baloch Colony Stop
+Drigh Road
+Malir Halt
+Kala Board Malir
+Malir 15
+Malir Court
+Quaidabad
+Dawood Chowrangi
+Murtaza Chowrangi
+Singer Chowrangi
+Shaan Chowrangi (Chamra Chowrangi)
+Godam Chowrangi
+Qayyumabad
+Akhtar Colony
+Khayaban-e-Shahbaz
+Badar Commercial 26 Street
+Neelam Colony
+Abdullah Shah Ghazi
+Clifton
+Bilawal Chowrangi
+Shireen Jinnah Colony"
+"MashaAllah","https://mnzil.app/./vehicles/MashaAllah","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","25","Hijrat Colony","Khairabad - Gulshan-e-Zia","Hijrat Colony
+Sultanabad (New Haji Camp)
+Lalazar
+Netty Jetty Bridge
+Tower
+Bolton Market
+City Court
+Light House
+Civil Hospital
+Jama Cloth Market
+Tibet Center
+Maki Masjid - Saddar
+Garden
+Rexer Line
+Golimar Old
+Bara Board
+Habib Bank Chowrangi
+Valika
+Banaras Bus Stop
+Orangi 5
+Orangi 12
+Orangi 13
+Orangi 14
+Gulshan-e-Bihar
+Khairabad - Gulshan-e-Zia"
+"Mashriq","https://mnzil.app/./vehicles/Mashriq","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","27","Bhains Colony Mor","Naval Colony","Bhains Colony Mor
+Gul Ahmed Chowrangi
+Dawood Chowrangi
+Murtaza Chowrangi
+Indus Chowrangi
+Bilal Chowrangi
+Vita Chowrangi - Korangi
+Brookes Chowrangi
+KPT Interchange
+Imtiaz Store - KPT Interchange
+Akhtar Colony
+Gold Mark Shopping Mall 1
+Defence Mor
+Gora Qabaristan
+Saddar
+Garden
+Fuwara Chowk - Garden West Area
+Bara Board
+Habib Bank Chowrangi
+SITE Police Station - A
+Metroville Khyber Gate
+Faqir Colony
+Pareshan Chowk - Faqir Colony Rd
+Jungle School (Baldia)
+Police Training Center Saeedabad
+Mach Mor
+Naval Colony"
+"Masood","https://mnzil.app/./vehicles/Masood","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","Bhains Colony Mor","Khuda Ki Basti - Taiser Town","Nagan Chowrangi
+UP Mor
+Power House Chowrangi
+4K Chowrangi"
+"Muslim","https://mnzil.app/./vehicles/Muslim","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","45","Keamari","Gulshan e Hadeed","Keamari
+Jackson Market
+Port Grand Karachi
+Tower
+I.I. Chundrigar
+Bolton Market
+City Court
+Light House
+Civil Hospital
+Jama Cloth Market
+Shaheen Complex
+Arts Council of Pakistan Karachi
+Cantt station
+Jinnah Hospital
+Regent Plaza
+FTC Building
+Nursery
+Laal Kothi Bus Stop
+Fine House
+Baloch Colony Stop
+Awami Markaz
+PAF Museum
+Karsaz
+PAF Base Faisal
+Drigh Road
+Nata Khan
+Shah Faisal Colony Gate
+Chhota Gate
+Wireless Gate Bus Stop
+Kala Board Malir
+Malir 15
+Malir Halt
+Malir Court
+Murghi Khana
+Quaidabad
+Manzil Pump
+Bhains Colony Mor
+FAST University - Bhains Colony
+Chowkandi Mor
+Abdullah Goth
+Razzaqabad
+Steel Mill Mor
+Pipri Goth
+National Highway 5
+Gulshan e Hadeed"
+"N","https://mnzil.app/./vehicles/N","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","5","Karimabad - Meena Bazaar","Shireen Jinnah Colony",""
+"N-4","https://mnzil.app/./vehicles/N-4","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","12","Metroville Khyber Gate","Abdullah Shah Ghazi","Metroville Khyber Gate
+Frontier Morr Metroville
+Meezan Head Office
+Gulbai
+Tower
+Agra Taj Colony
+Keamari
+Masan Chowk
+Shireen Jinnah Colony
+Gizri
+Clifton
+Abdullah Shah Ghazi"
+"N-5","https://mnzil.app/./vehicles/N-5","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","27","Naval Colony","Shaan Chowrangi (Chamra Chowrangi)","Naval Colony
+Fareed Colony - Orangi Town
+Urdu Chowk - Orangi Town
+Orangi No 10
+Orangi 5
+Banaras Bus Stop
+METRO Manghopir Store
+Habib Bank Chowrangi
+Siemens Chowrangi
+Haroonabad
+Ghani Chowrangi
+Shershah
+Meezan Head Office
+Gulbai
+Agra Taj Colony
+Tower
+MT Khan Road
+PIDC
+Cantt station
+Jinnah Hospital
+Kala Pul
+NMC Hospital
+NADRA Mega Centre DHA
+Akhtar Colony
+Qayyumabad
+Buscuit Factory
+Shaan Chowrangi (Chamra Chowrangi)"
+"New Afridi","https://mnzil.app/./vehicles/New-Afridi","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","26","Bhains Colony Mor","Gulshan Ghazi","Bhains Colony Mor
+PMTF - Jumma Goth
+Mansehra Colony
+Murtaza Chowrangi
+Godam Chowrangi
+Qayyumabad
+Defence Mor
+Punjab Chowrangi
+American Embassy Karachi
+Saudi Embassy - DHA Phase 5
+Abdullah Shah Ghazi
+Shireen Jinnah Colony
+Masan Chowk
+Tower
+Agra Taj Colony
+Gulbai
+Meezan Head Office
+Shershah
+Ghani Chowrangi
+Haroonabad
+Siemens Chowrangi
+Habib Bank Chowrangi
+Metroville Khyber Gate
+Mominabad - Orangi Town
+Faqir Colony
+Gulshan Ghazi"
+"P-3","https://mnzil.app/./vehicles/P-3","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","19","Shireen Jinnah Colony","Abdullah Mor - Surjani","Lasbela
+Nagan Chowrangi
+UP Mor
+2 Minute Chowrangi"
+"S-2 Bus","https://mnzil.app/./vehicles/S-2-Bus","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","22","Korangi Coast Guard","Godhra","Korangi Coast Guard
+Korangi 2 ½
+Korangi 2
+Korangi 1
+Nasir Jump
+Korangi Crossing Road
+Qayyumabad
+Defence phase 2
+Baloch Colony Stop
+Naheed Supermarket - Main Shaheed-e-Millat Rd
+Tariq Road
+Jail Chowrangi
+New Town
+Old Sabzi Mandi
+Hassan Square
+NIPA Chowrangi
+Gulshan Chowrangi
+Moti Mahal
+Lucky One Mall
+Sohrab Goth
+Shafiq Mor
+Godhra"
+"Shiraz","https://mnzil.app/./vehicles/Shiraz","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","31","Check Post 6 Malir Cantt","Hawksbay Beach","Check Post 6 Malir Cantt
+Safoora Chowrangi
+Mosamiyat
+Karachi Univerity - Siver Jubilee Gate
+NED University
+University Road
+NIPA Chowrangi
+Karachi Safari Park
+Sir Syed University (Rashid Minhas Rd.)
+Federal Urdu University - University Rd
+Expo Center
+Civic Center
+Old Sabzi Mandi
+Hassan Square
+New Town
+Jail Chowrangi
+Guru Mandir
+Numaish Chowrangi
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+Light House
+City Court
+Bolton Market
+Tower
+IC Bridge
+Agra Taj Colony
+Gulbai
+Pakistan Marine Academy Maripur
+Maripur Cycle Chowrangi
+Hawksbay Beach"
+"SL","https://mnzil.app/./vehicles/SL","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","27","Saddar","89 Landhi Rd",""
+"Super Hassan Zai","https://mnzil.app/./vehicles/Super-Hassan-Zai","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","New Sabzi Mandi","Shireen Jinnah Colony","New Sabzi Mandi
+Maymar Mor
+Jamali Flyover
+Al Asif Square
+Sohrab Goth
+Lucky One Mall
+Gulshan Chowrangi
+NIPA Chowrangi
+Old Sabzi Mandi
+Hassan Square
+Expo Center
+New Town
+Jail Chowrangi
+Tariq Road
+Allah Wali Chowrangi - Tariq Road
+Nursery
+Gora Qabaristan
+Regent Plaza
+Jinnah Hospital
+Cantt station
+Askari 3
+Do Talwar
+Clifton
+Dolmen Mall - Clifton
+Abdullah Shah Ghazi
+South City Hospital - Clifton
+Bilawal Chowrangi
+Ziauddin University - Clifton
+Shireen Jinnah Colony"
+"Super Muslim Coach","https://mnzil.app/./vehicles/super-muslim-coach","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","17","Port Qasim Mor","Shireen Jinnah Colony","Port Qasim Mor
+Bhains Colony Mor
+Manzil Pump
+Qaddafi Town
+Yunus Chowrangi
+Dawood Chowrangi
+Mansehra Colony
+Bilal Chowrangi
+Godam Chowrangi
+Qayyumabad
+Akhtar Colony
+Khayaban-e-Ittehad
+Khayaban-e-Shahbaz
+Badar Commercial 26 Street
+Abdullah Shah Ghazi
+Clifton
+Shireen Jinnah Colony"
+"W-11","https://mnzil.app/./vehicles/W-11","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","25","Ahsanabad","Keamari","Ahsanabad
+Allah waali - New Karachi
+Sindhi Hotel - New Karachi
+Nala Stop - New Karachi
+Godhra
+Shafiq Mor
+Sohrab Goth
+Ancholi
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Jehangir Rd
+Guru Mandir
+Numaish Chowrangi
+Seventh-day Adventist Hospital
+Urdu Bazar
+Jama Cloth Market
+Light House
+City Court
+Bolton Market
+Tower
+Netty Jetty Bridge
+Jackson Market
+Keamari"
+"W-18","https://mnzil.app/./vehicles/W-18","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","29","Baba Mor","Rehri Goth Landhi","UP Mor
+Nagan Chowrangi"
+"W-22","https://mnzil.app/./vehicles/W-22","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","33","Rehmania Mor","Korangi 2 ½",""
+"W-25","https://mnzil.app/./vehicles/W-25","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","20","Sindhi Hotel - New Karachi","Khyber Chowk - Ittihad Town","UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market"
+"W-55","https://mnzil.app/./vehicles/W-55","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","26","Khairabad - Gulshan-e-Zia","Lyari Basti - Taiser Town","Board Office Chowrangi
+Hyderi Market
+Jummah Bazar (Bhayani Shopping Center)
+Sakhi Hasan Chowrangi
+Erum Shopping
+Nagan Chowrangi
+UP Mor
+Road 4200 - Saleem Centre
+Power House Chowrangi
+2 Minute Chowrangi
+4K Chowrangi
+Karimi Chowrangi
+KDA Flats- Surjani"
+"X-10","https://mnzil.app/./vehicles/X-10","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","34","Ittehad Town","Khayaban-e-Ghalib - DHA Phase 8","Ittehad Town
+Baldia 9
+Baldia 8
+Bismillah Chowk
+Jungle School (Baldia)
+Rubi Mor
+Police Training Center Saeedabad
+Mach Mor
+Baldia 4
+Baldia 3
+Baldia 2
+Shershah
+Ghani Chowrangi
+Haroonabad
+Habib Bank Chowrangi
+Nazimabad No. 1
+Nazimabad Petrol Pump
+Liaquatabad No.10 - Lalukhet
+Teen Hatti
+Guru Mandir
+peoples secretariat
+Lines Area
+Saddar
+Lucky Star - Saddar
+Cantt station
+Askari 3
+Dehli Colony
+Punjab Chowrangi
+P&T Colony
+Gizri
+Khayaban-e-Ittehad
+Misri Shah
+DHA phase 6
+Khayaban-e-Ghalib - DHA Phase 8"
+"X-23","https://mnzil.app/./vehicles/X-23","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","24","Fareed Colony - Orangi Town","Bilal Colony - Landhi Town","Nazimabad No. 1"
+"X-8","https://mnzil.app/./vehicles/X-8","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","41","Ittehad Town","Rohri Goth - Landhi Town",""
+"Z-2","https://mnzil.app/./vehicles/Z-2","https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75","Bus","14","Gulshan Ghazi","Khayaban-e-Shaheed","Gulshan Ghazi
+Fareed Colony - Orangi Town
+Orangi No 10
+Orangi 5
+Banaras Bus Stop
+Habib Bank Chowrangi
+Bara Board
+Garden
+Maki Masjid - Saddar
+Saddar
+Hotel Mehran - Shahrah-e-Faisal Rd
+Cantt station
+Punjab Chowrangi
+Khayaban-e-Shaheed"
+"007","https://mnzil.app/./vehicles/007","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Shrine of Manghopir","Daak Khana - Liaquatabad","Sakhi Hasan Chowrangi
+Five Star Chowrangi
+Hyderi Market"
+"2-J","https://mnzil.app/./vehicles/2-J","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","27","Saddar","Al hameed","Board Office Chowrangi
+Five Star Chowrangi
+Hyderi Market
+Jummah Bazar (Bhayani Shopping Center)
+Nagan Chowrangi
+Road 2400 - Aisha Complex
+Road 4200 - Saleem Centre
+Power House Chowrangi
+Sakhi Hasan Chowrangi
+UP Mor
+2 Minute Chowrangi
+Erum Shopping"
+"4-E","https://mnzil.app/./vehicles/4-E","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","23","Abdullah Chowk","Numaish Chowrangi","Abdullah Chowk
+KDA Flats- Surjani
+Karimi Chowrangi
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Annu Bhai Park
+Enquiry Office
+Nazimabad No. 1
+Sanitary Market (Gulbahar)
+Lasbela
+Patel Para (Guru Mandir)
+Numaish Chowrangi"
+"4-X","https://mnzil.app/./vehicles/4-X","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","27","Surjani - Sector 7A","Guru Mandir","KDA Flats- Surjani
+Karimi Chowrangi
+4K Chowrangi
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Lasbela
+Patel Para (Guru Mandir)"
+"555","https://mnzil.app/./vehicles/555","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","20","Sindhi Hotel - New Karachi","Guru Mandir","UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Hyderi Market
+Board Office Chowrangi
+Lasbela
+Patel Para (Guru Mandir)"
+"786","https://mnzil.app/./vehicles/786","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","19","Lyari Basti - Taiser Town","NIPA Chowrangi","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi"
+"7-D","https://mnzil.app/./vehicles/7-D","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","11","North Karachi 7-D - Iqra University","Lucky One Mall",""
+"8","https://mnzil.app/./vehicles/8-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","14","Pahar Ganj","Ahsanabad","Pahar Ganj
+Justice Asghar Ali Shah Cricket Stadium
+KDA Chowrangi
+Ziauddin Hospital - North Nazimabad
+Moosa Colony - Gulberg Town
+Karimabad - Meena Bazaar
+Ayesha Manzil
+Naseerabad - Gulberg Town
+Water Pump
+Ancholi
+Sohrab Goth
+Al Asif Square
+Jamali Flyover
+Ahsanabad"
+"A","https://mnzil.app/./vehicles/A","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","3","Saddar","NIPA Chowrangi","Saddar
+Mobile Market Saddar
+NIPA Chowrangi"
+"A-1","https://mnzil.app/./vehicles/A-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","4","Disco Bakers and Sweets","Gulshan Chowrangi","Disco Bakers and Sweets
+Maskan Chowrangi
+NIPA Chowrangi
+Gulshan Chowrangi"
+"A-18","https://mnzil.app/./vehicles/A-18","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","19","Chungi Ghazi","Millennium Mall","UP Mor
+Nagan Chowrangi"
+"AA1","https://mnzil.app/./vehicles/AA1-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet","Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road
+Qayyumabad
+Manzoor Colony
+Baloch Colony Stop
+Tariq Road
+Jail Chowrangi
+Essa Nagri
+Liaquatabad No.10 - Lalukhet"
+"AS-1","https://mnzil.app/./vehicles/AS-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","8","Korangi 6","4K Chowrangi","4K Chowrangi
+Nagan Chowrangi
+UP Mor"
+"B-1","https://mnzil.app/./vehicles/B-1-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","11","Daak Khana - Liaquatabad","Allah bux village - Ahsanabad","Daak Khana - Liaquatabad
+Liaquatabad No.10 - Lalukhet
+Karimabad - Meena Bazaar
+Ayesha Manzil
+Naseerabad - Gulberg Town
+Water Pump
+Ancholi
+Sohrab Goth
+Al Asif Square
+Jamali Flyover
+Allah bux village - Ahsanabad"
+"B-3","https://mnzil.app/./vehicles/B-3","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","8","Numaish Chowrangi","Safoora Chowrangi","Numaish Chowrangi"
+"B-9","https://mnzil.app/./vehicles/B-9-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","9","Korangi 6","Korangi Crossing Road","Korangi 6
+Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road"
+"D-13","https://mnzil.app/./vehicles/D-13","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","12","Jungle School (Baldia)","Banaras Bus Stop","Jungle School (Baldia)
+Bismillah Chowk
+Baldia 19-D
+Mohajir Camp No. 7
+Rasheedabad
+Labor Square - Metroville SITE
+GCT College Mor
+SITE Police Station - A
+Habib Chowrangi - Metroville
+Valika
+METRO Manghopir Store
+Banaras Bus Stop"
+"D-22","https://mnzil.app/./vehicles/D-22","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","23","Lyari 50","Teen Hatti","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market"
+"D-3","https://mnzil.app/./vehicles/D-3-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","14","Guru Mandir","Munawar Chowrangi - Gulistan-e-Johar","Guru Mandir
+Jehangir Road
+Teen Hatti
+Daak Khana - Liaquatabad
+Liaquatabad No.10 - Lalukhet
+Ayesha Manzil
+Naseerabad - Gulberg Town
+Water Pump
+Sohrab Goth
+Al Asif Square
+Jamali Flyover
+Maymar Mor
+Ahsanabad
+Munawar Chowrangi - Gulistan-e-Johar"
+"Double Jhanda","https://mnzil.app/./vehicles/Double-Jhanda-","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","7","Kharadar","Teen Hatti","Lasbela"
+"F-12","https://mnzil.app/./vehicles/F-12","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","11","Allah waali - New Karachi","Teen Hatti","Allah waali - New Karachi
+Sindhi Hotel - New Karachi
+Nala Stop - New Karachi
+Godhra
+Shafiq Mor
+Sohrab Goth
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Teen Hatti"
+"FM","https://mnzil.app/./vehicles/FM","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","29","Abdullah Mor - Surjani","Malir 15","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi"
+"FS-1","https://mnzil.app/./vehicles/FS-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","17","L Block Rd - Aziz Nagar","Anarkali Sector 6 - Surjani Town","Board Office Chowrangi
+Hyderi Market
+Sakhi Hasan Chowrangi
+Nagan Chowrangi
+UP Mor
+Road 4200 - Saleem Centre
+Power House Chowrangi
+2 Minute Chowrangi
+4K Chowrangi"
+"G-2","https://mnzil.app/./vehicles/G-2","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","12","Daak Khana - Liaquatabad","New Sabzi Mandi",""
+"G-25","https://mnzil.app/./vehicles/G-25","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","7","Five Star Chowrangi","Gulshan Chowrangi","Five Star Chowrangi"
+"G-7 Chinchi","https://mnzil.app/./vehicles/g7-chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","22","Baba Mor","Bismillah Chowk","UP Mor
+Nagan Chowrangi
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi"
+"GM","https://mnzil.app/./vehicles/GM-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","21","Malir 15","Baba Mor","Nagan Chowrangi
+UP Mor"
+"J-1","https://mnzil.app/./vehicles/J-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","16","Gulshan Ghazi","IC Bridge","Gulshan Ghazi
+Faqir Colony
+Baldia 8
+Bismillah Chowk
+Jungle School (Baldia)
+Rubi Mor
+Police Training Center Saeedabad
+Mach Mor
+Baldia 4
+Baldia 3
+Baldia 2
+Shershah
+Meezan Head Office
+Gulbai
+Agra Taj Colony
+IC Bridge"
+"JF17","https://mnzil.app/./vehicles/JF17-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet","Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road
+Qayyumabad
+Manzoor Colony
+Baloch Colony Stop
+Tariq Road
+Jail Chowrangi
+Essa Nagri
+Liaquatabad No.10 - Lalukhet"
+"K-18","https://mnzil.app/./vehicles/K-18","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","19","Chungi Ghazi","Millennium Mall","UP Mor
+Nagan Chowrangi"
+"K-4","https://mnzil.app/./vehicles/K-4-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","9","Korangi Crossing Road","Korangi 6","Korangi Crossing Road
+Indus Hospital - Korangi
+Nasir Jump
+Korangi 1
+Korangi 2 ½
+Korangi 3
+Korangi 4
+Korangi 5
+Korangi 6"
+"K-5","https://mnzil.app/./vehicles/K-5","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","24","Makkah Hotel - Sec 5A1 North Karachi","Patel Para (Guru Mandir)","4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Annu Bhai Park
+Enquiry Office
+Nazimabad No. 1
+Sanitary Market (Gulbahar)
+Lasbela
+Patel Para (Guru Mandir)"
+"K6","https://mnzil.app/./vehicles/K6-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","9","Korangi Crossing Road","Korangi 6","Korangi Crossing Road
+Indus Hospital - Korangi
+Nasir Jump
+Korangi 1
+Korangi 2 ½
+Korangi 3
+Korangi 4
+Korangi 5
+Korangi 6"
+"K-86","https://mnzil.app/./vehicles/K-86","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","26","Lyari 50","Guru Mandir","KDA Flats- Surjani
+Karimi Chowrangi
+4K Chowrangi
+2 Minute Chowrangi
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Sakhi Hasan Chowrangi"
+"Karachi King","https://mnzil.app/./vehicles/Karachi-King-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet","Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road
+Qayyumabad
+Manzoor Colony
+Baloch Colony Stop
+Tariq Road
+Jail Chowrangi
+Essa Nagri
+Liaquatabad No.10 - Lalukhet"
+"M-1","https://mnzil.app/./vehicles/M-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","13","Jamali Flyover","Guru Mandir","Jamali Flyover
+Sachal Mor - Sachal Goth
+Punjab Adda - Bus Stand
+Al Asif Square
+Sohrab Goth
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Daak Khana - Liaquatabad
+Teen Hatti
+Jehangir Road
+Guru Mandir"
+"M-10","https://mnzil.app/./vehicles/M-10","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","7","Lyari Basti - Taiser Town","NIPA Chowrangi",""
+"M-22","https://mnzil.app/./vehicles/M-22","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet","Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road
+Qayyumabad
+Manzoor Colony
+Baloch Colony Stop
+Tariq Road
+Jail Chowrangi
+Essa Nagri
+Liaquatabad No.10 - Lalukhet"
+"M-5","https://mnzil.app/./vehicles/M-5","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","1","Expo Center","Expo Center","Expo Center"
+"M-55","https://mnzil.app/./vehicles/M-55","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","27","Lyari Basti - Taiser Town","Saddar","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Lasbela"
+"M-7","https://mnzil.app/./vehicles/M-7","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","26","Yaroo Khan Goth - Surjani Town","89 Landhi Rd","Yaroo Khan Goth - Surjani Town
+Allah waali - New Karachi
+Kala School Bus Stop - New Karachi
+Sindhi Hotel - New Karachi
+Nala Stop - New Karachi
+Godhra
+Shafiq Mor
+Sohrab Goth
+Lucky One Mall
+Gulshan Chowrangi
+NIPA Chowrangi
+Aladin Park
+Johar Mor
+Millennium Mall
+Drigh Road
+Chota Gate - Shah Faisal Colony
+Shama Shopping Center
+Bagh-e-Korangi - Sector 10
+Singer Chowrangi
+K Area - Sherabad Colony
+Korangi 5
+Korangi 6
+Chiragh Hotel - Sector 36 E Landhi Town
+Landhi 4
+Babar Market
+89 Landhi Rd"
+"M-9","https://mnzil.app/./vehicles/M-9","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","13","Qayyumabad","NIPA Chowrangi",""
+"MK 081","https://mnzil.app/./vehicles/MK-081","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","0","undefined","undefined",""
+"N-1","https://mnzil.app/./vehicles/N-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","7","NIPA Chowrangi","Kaneez Fatima Society - Gulzar-e-Hijri",""
+"N-1 Baldia","https://mnzil.app/./vehicles/N-1-Baldia","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","9","Jungle School (Baldia)","Shershah",""
+"N-55","https://mnzil.app/./vehicles/N-55","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","25","Lyari Basti - Taiser Town","Khairabad - Gulshan-e-Zia","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Road 2400 - Aisha Complex
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi"
+"N-91","https://mnzil.app/./vehicles/N-91","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","5","NIPA Chowrangi","Johar Chowrangi","NIPA Chowrangi
+Aladin Park
+Johar Mor
+Perfume Chowk Gulistan-e-Johar
+Johar Chowrangi"
+"Naseeb","https://mnzil.app/./vehicles/Naseeb-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet",""
+"ND-1","https://mnzil.app/./vehicles/ND-1-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","18","Umer Goth","Daak Khana - Liaquatabad","UP Mor
+Nagan Chowrangi
+Erum Shopping"
+"P-1","https://mnzil.app/./vehicles/P-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","0","","",""
+"Razaq","https://mnzil.app/./vehicles/Razaq-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Korangi 5","Liaquatabad No.10 - Lalukhet","Korangi 5
+Korangi 4
+Korangi 3
+Korangi 2 ½
+Korangi 1
+Nasir Jump
+Indus Hospital - Korangi
+Korangi Crossing Road
+Qayyumabad
+Manzoor Colony
+Baloch Colony Stop
+Tariq Road
+Jail Chowrangi
+Essa Nagri
+Liaquatabad No.10 - Lalukhet"
+"R-S","https://mnzil.app/./vehicles/R-S","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","1","Johar Chowrangi","Johar Chowrangi",""
+"S-2","https://mnzil.app/./vehicles/S-2","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","10","Daak Khana - Liaquatabad","Alnoor mor","Daak Khana - Liaquatabad
+Liaquatabad No.10 - Lalukhet
+Karimabad - Meena Bazaar
+Moosa Colony - Gulberg Town
+Ziauddin Hospital - North Nazimabad
+Landi Kotal Chowrangi Roundabout
+Peoples Chowrangi
+Piyala Hotel - Peoples Colony
+Gulberg Chowrangi
+Alnoor mor"
+"S-7","https://mnzil.app/./vehicles/S-7","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","11","Khawaja Ajmer Nagri","Teen Hatti","Sakhi Hasan Chowrangi"
+"S-K","https://mnzil.app/./vehicles/S-K-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","20","Al Asif Square","Ittehad Town","Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi"
+"Sultan","https://mnzil.app/./vehicles/Sultan-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","23","Liaquatabad No.10 - Lalukhet","Korangi 5","Liaquatabad No.10 - Lalukhet
+Essa Nagri
+Jail Chowrangi
+Tariq Road
+Baloch Colony Stop
+Manzoor Colony
+Qayyumabad
+Korangi Crossing Road
+Indus Hospital - Korangi
+Nasir Jump
+Korangi 1
+Korangi 2 ½
+Korangi 3
+Korangi 4
+Landhi 6
+Landhi 5
+Landhi 4
+Landhi 3
+Landhi 2
+Landhi 1
+89 Landhi Rd
+Dawood Chowrangi
+Korangi 5"
+"T-10","https://mnzil.app/./vehicles/T-10","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","21","Daak Khana - Liaquatabad","Surjani - Sector 7A","Hyderi Market
+Five Star Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Sakhi Hasan Chowrangi
+Erum Shopping
+Nagan Chowrangi
+UP Mor
+Power House Chowrangi
+2 Minute Chowrangi
+4K Chowrangi
+Karimi Chowrangi
+KDA Flats- Surjani"
+"T-11","https://mnzil.app/./vehicles/T-11","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","22","Daak Khana - Liaquatabad","Surjani - Sector 7A","Board Office Chowrangi
+Five Star Chowrangi
+Hyderi Market
+Jummah Bazar (Bhayani Shopping Center)
+Sakhi Hasan Chowrangi
+Erum Shopping
+Nagan Chowrangi
+UP Mor
+Power House Chowrangi
+2 Minute Chowrangi
+4K Chowrangi
+Karimi Chowrangi
+KDA Flats- Surjani"
+"T-99","https://mnzil.app/./vehicles/T-99-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","23","Mansoor Nagar (Maa Hospital)","Abdullah Mor - Surjani","Board Office Chowrangi
+Five Star Chowrangi
+Hyderi Market
+Sakhi Hasan Chowrangi
+Nagan Chowrangi
+UP Mor
+Road 4200 - Saleem Centre
+Power House Chowrangi
+2 Minute Chowrangi
+4K Chowrangi
+KDA Flats- Surjani"
+"U-5","https://mnzil.app/./vehicles/U-5","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","13","Machchi Market (New Karachi)","KDA Chowrangi","Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Hyderi Market
+Five Star Chowrangi"
+"V-1","https://mnzil.app/./vehicles/V-1","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","22","Baba Mor","Garden","UP Mor
+Nagan Chowrangi
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market
+Board Office Chowrangi
+Annu Bhai Park
+Enquiry Office
+Nazimabad No. 1
+Sanitary Market (Gulbahar)
+Lasbela"
+"W-11 Chinchi","https://mnzil.app/./vehicles/W-11-Chinchi","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","15","Gulshan Ghazi","Daak Khana - Liaquatabad",""
+"W-86","https://mnzil.app/./vehicles/W-86","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","21","Lyari Basti - Taiser Town","Teen Hatti","KDA Flats- Surjani
+4K Chowrangi
+2 Minute Chowrangi
+Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi"
+"X-2","https://mnzil.app/./vehicles/X-2","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","11","ICI Bridge","Yousuf Goth",""
+"Z","https://mnzil.app/./vehicles/Z","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","6","Ittehad Town","Islam Chowk - Orangi Town","Ittehad Town
+Eid Gah Morh - Orangi
+L Block Rd - Aziz Nagar
+Orangi 5
+Dabba Mor - Orangi Town
+Islam Chowk - Orangi Town"
+"Z-4","https://mnzil.app/./vehicles/Z-4","https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75","Chinchi","5","Shershah","Haroonabad","Shershah
+Ghani Chowrangi
+Siemens Chowrangi
+Habib Bank Chowrangi
+Haroonabad"
+"EV-01","https://mnzil.app/./vehicles/EV-01","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","28","CMH Malir Cantt","Dolmen Mall - Clifton","CMH Malir Cantt
+Tank Chowk
+Model Colony Mor
+Malir Halt
+Security Printing Press
+Wireless Gate Bus Stop
+Chhota Gate
+Shah Faisal Colony Gate
+Nata Khan
+Drigh Road
+PAF Base Faisal
+Karsaz
+PAF Museum
+Awami Markaz
+Baloch Colony Stop
+Fine House
+Laal Kothi Bus Stop
+Nursery
+FTC Building
+Kala Pul
+NMC Hospital
+Sunset Boulevard
+Defence Mor
+Rahat Park - DHA Phase 7
+Ayesha Masjid - DHA
+Badar Commercial 26 Street
+Clock Tower DHA
+Dolmen Mall - Clifton"
+"EV-02","https://mnzil.app/./vehicles/EV-02","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","8","Bahria Town","Malir Halt","Bahria Town
+Karachi Toll Plaza - M9
+Baqai University
+Check Post 5 Malir Cantt
+Check Post 6 Malir Cantt
+Model Colony Mor
+Security Printing Press
+Malir Halt"
+"EV-03","https://mnzil.app/./vehicles/EV-03","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","12","Check Post 5 Malir Cantt","Numaish Chowrangi","Numaish Chowrangi"
+"EV-04","https://mnzil.app/./vehicles/EV-04","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","6","Ayesha Manzil","Bahria Town",""
+"EV-05","https://mnzil.app/./vehicles/EV-05","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","9","Al Asif Square","DHA City Karachi","Al Asif Square
+Maymar Mor
+New Sabzi Mandi
+Baqai University
+Karachi Toll Plaza - M9
+Dumba Goth
+Bahria Town
+Kathore
+DHA City Karachi"
+"R-01","https://mnzil.app/./vehicles/R-01","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","25","Model Colony Mor","Dockyard",""
+"R-02","https://mnzil.app/./vehicles/R-02","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","29","Power House Chowrangi","Indus Hospital - Korangi","Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Shafiq Mor
+Sohrab Goth
+Sagheer Centre - FB Area
+Lucky One Mall
+Imtiaz Mega Store - Gulshan
+Gulshan Chowrangi
+NIPA Chowrangi
+Aladin Park
+Johar Chowrangi
+Johar Mor
+Millennium Mall
+Army Public School
+Drigh Road
+Shama Shopping Center
+Shah Faisal Colony 2
+Singer Chowrangi
+Khaddi Stop
+Sector 36 Landhi
+Sector 35 Landhi
+Sector 33 Korangi
+Sector 32 Landhi
+Gulzar Colony
+Nasir Jump
+District Court Korangi
+Indus Hospital - Korangi"
+"R-03","https://mnzil.app/./vehicles/R-03","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","39","Power House Chowrangi","Nasir Jump","Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Erum Shopping
+Sakhi Hasan Chowrangi
+Jummah Bazar (Bhayani Shopping Center)
+Five Star Chowrangi
+Hyderi Market"
+"R-04","https://mnzil.app/./vehicles/R-04","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","25","Power House Chowrangi","Port Grand Karachi","Power House Chowrangi
+Road 4200 - Saleem Centre
+UP Mor
+Nagan Chowrangi
+Shafiq Mor
+Sohrab Goth
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Daak Khana - Liaquatabad
+Teen Hatti
+Jehangir Road
+New Town
+Numaish Chowrangi
+Gul Plaza
+Tibet Center
+Mobile Market Saddar
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+City Court
+Bolton Market
+Tower
+Port Grand Karachi"
+"R-09","https://mnzil.app/./vehicles/R-09","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","40","Gulshan e Hadeed","Tower","Gulshan e Hadeed
+Salahuddin Ayubi Road
+National Highway 5
+Steel Mill Mor
+Port Qasim Mor
+Razzaqabad
+Abdullah Goth
+Chowkandi Mor
+FAST University - Bhains Colony
+Bhains Colony Mor
+Manzil Pump
+Quaidabad
+Murghi Khana
+Nadra Center
+Malir Court
+Malir 15
+Kala Board Malir
+Malir Halt
+Wireless Gate Bus Stop
+Chhota Gate
+Shah Faisal Colony Gate
+Nata Khan
+Drigh Road
+PAF Base Faisal
+Karsaz
+PAF Museum
+Awami Markaz
+Baloch Colony Stop
+Fine House
+Laal Kothi Bus Stop
+Nursery
+FTC Building
+Aisha Bawany College
+Regent Plaza
+Metropole
+Arts Council of Pakistan Karachi
+Shaheen Complex
+City Railway
+I.I. Chundrigar
+Tower"
+"R-10","https://mnzil.app/./vehicles/R-10","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","18","Numaish Chowrangi","Ibrahim Hyderi","Numaish Chowrangi"
+"R-11","https://mnzil.app/./vehicles/R-11","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","18","Miran Nakka Lyari","Shireen Jinnah Colony","Miran Nakka Lyari
+Gulistan Colony
+Bihar Colony
+Agra Taj Colony
+Daryabad
+Dockyard
+KPT Bridge
+Bahria Complex 3
+MT Khan Road
+PIDC
+Bahria Complex 4
+Submarine Chowk
+Khadda Market
+Abdullah Shah Ghazi
+Bilawal Chowrangi
+South City Hospital - Clifton
+Ziauddin University - Clifton
+Shireen Jinnah Colony"
+"R-12","https://mnzil.app/./vehicles/R-12","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","33","Memon Goth - Gadap Town","FTC Building","Memon Goth - Gadap Town
+Sommar Chandani Goth
+Alize Garden
+Falaknaz Dreams - Gadap Town
+Naddi Kinara
+Khokhrapar
+Saudabad Chowrangi
+RCD Ground
+Kala Board Malir
+Malir 15
+Malir Court
+Nadra Center
+Murghi Khana
+Quaidabad
+Dawood Chowrangi
+Babar Market
+Sector 36 Landhi
+Sector 35 Landhi
+Sector 33 Korangi
+Sector 32 Landhi
+Gulzar Colony
+Nasir Jump
+Korangi Crossing Road
+District Court Korangi
+Indus Hospital - Korangi
+Defence Mor
+Sunset Boulevard
+Jut Land
+NMC Hospital
+Kala Pul
+Lines Area
+Lucky Star - Saddar
+FTC Building"
+"R-13","https://mnzil.app/./vehicles/R-13","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","6","Tower","Hawksbay Beach","Tower
+ICI Bridge
+Agra Taj Colony
+Gulbai
+PAF Masroor
+Hawksbay Beach"
+"R-14","https://mnzil.app/./vehicles/R-14","https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75","Peoples Bus","27","Nawaz Sharif Park - Gulshan-E-Maymar","Tower","Nawaz Sharif Park - Gulshan-E-Maymar
+Ahsanabad
+Maymar Mor
+Jamali Flyover
+Sachal Mor - Sachal Goth
+Punjab Adda - Bus Stand
+Al Asif Square
+Sohrab Goth
+Water Pump
+Ayesha Manzil
+Karimabad - Meena Bazaar
+Liaquatabad No.10 - Lalukhet
+Daak Khana - Liaquatabad
+Teen Hatti
+Jehangir Road
+Guru Mandir
+Numaish Chowrangi
+Gul Plaza
+Tibet Center
+Mobile Market Saddar
+Urdu Bazar
+Jama Cloth Market
+Civil Hospital
+Light House
+City Court
+Bolton Market
+Tower"

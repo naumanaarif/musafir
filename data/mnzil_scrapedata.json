@@ -1,0 +1,1306 @@
+[ {
+  "Vehicle Name" : "BRT Metro Green Line",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/BRT-Metro-Green-Line",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "BRT Metro Bus",
+  "Total Stops" : "23",
+  "Starting Point" : "Abdullah Chowk",
+  "Ending Point" : "Numaish Chowrangi",
+  "Station List" : "Abdullah Chowk\nKDA Flats- Surjani\nKarimi Chowrangi\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nAnnu Bhai Park\nEnquiry Office\nNazimabad No. 1\nSanitary Market (Gulbahar)\nLasbela\nPatel Para (Guru Mandir)\nNumaish Chowrangi"
+}, {
+  "Vehicle Name" : "BRT Metro Orange Line",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/BRT-Metro-Orange-Line",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "BRT Metro Bus",
+  "Total Stops" : "4",
+  "Starting Point" : "Board Office Chowrangi",
+  "Ending Point" : "Nadra Center - Orangi Town",
+  "Station List" : "Board Office Chowrangi"
+}, {
+  "Vehicle Name" : "11-C",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/11-C",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "26",
+  "Starting Point" : "Akhtar Colony",
+  "Ending Point" : "Dow Ojha Campus",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "16",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/16",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "17",
+  "Starting Point" : "Bhains Colony Mor",
+  "Ending Point" : "Saddar",
+  "Station List" : "Bhains Colony Mor\nManzil Pump\nQuaidabad\nMalir Court\nMalir 15\nKala Board Malir\nMalir Halt\nChota Gate - Shah Faisal Colony\nShah Faisal Colony Gate\nNata Khan\nDrigh Road\nKarsaz\nBaloch Colony Stop\nLal Kothi Shahrah-e-Faisal\nNursery\nGora Qabaristan\nSaddar"
+}, {
+  "Vehicle Name" : "20",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/20",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : "Ittehad Town\nGulshan Ghazi\nBaldia 9\nBaldia 8\nRubi Mor\nPolice Training Center Saeedabad\nMach Mor\nBaldia 4\nBaldia 3\nBaldia 2\nRasheedabad\nGCT College Mor\nSITE Police Station - A\nMETRO Manghopir Store\nHabib Bank Chowrangi\nGolimar Old\nRexer Line\nGarden\nSeventh-day Adventist Hospital\nSaddar\nCantt station\nDo Talwar\nDriving License Office Clifton\nAbdullah Shah Ghazi\nBilawal Chowrangi\nZiauddin University - Clifton\nShireen Jinnah Colony"
+}, {
+  "Vehicle Name" : "4-E",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-E",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "0",
+  "Starting Point" : "undefined",
+  "Ending Point" : "undefined",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "4-H",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-H",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "2",
+  "Starting Point" : "4K Chowrangi",
+  "Ending Point" : "Cantt station",
+  "Station List" : "4K Chowrangi"
+}, {
+  "Vehicle Name" : "4-L",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-L",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "22",
+  "Starting Point" : "Al Asif Square",
+  "Ending Point" : "Bolton Market",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "4-Q",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-Q",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "22",
+  "Starting Point" : "Gulzar-e-hijri",
+  "Ending Point" : "Tower",
+  "Station List" : "Gulzar-e-hijri\nParadise Bakery\nAl Asif Square\nSohrab Goth\nAncholi\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nGuru Mandir\nJehangir Road\nNumaish Chowrangi\nTaj Complex Numaish\nSeventh-day Adventist Hospital\nMobile Market Saddar\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nLight House\nCity Court\nBolton Market\nTower"
+}, {
+  "Vehicle Name" : "51",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/51",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "3",
+  "Starting Point" : "New Town",
+  "Ending Point" : "Malir Halt",
+  "Station List" : "New Town\nLiaquat national Hospital\nMalir Halt"
+}, {
+  "Vehicle Name" : "51A",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/51A-",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "31",
+  "Starting Point" : "Lee Market",
+  "Ending Point" : "Ghaghar Phatak - Bin Qasim Town",
+  "Station List" : "Lee Market\nGarden\nNumaish Chowrangi\nNew Town\nLiaquat national Hospital\nAga Khan Hospital\nNational Stadium\nMillennium Mall\nCentral Ordnance Depot (COD)\nDrigh Road\nNata Khan\nShah Faisal Colony Gate\nStar Gate - Shah Faisal Colony\nChota Gate - Shah Faisal Colony\nWireless Gate Bus Stop\nMalir Halt\nKala Board Malir\nMalir 15\nMalir Court\nMurghi Khana\nQuaidabad\nManzil Pump\nBhains Colony Mor\nFAST University - Bhains Colony\nChowkandi Mor\nAbdullah Goth\nPort Qasim Mor\nRazzaqabad\nSteel Mill Mor\nPipri Goth\nGhaghar Phatak - Bin Qasim Town"
+}, {
+  "Vehicle Name" : "52",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/52",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "2",
+  "Starting Point" : "Malir Halt",
+  "Ending Point" : "Liaquat national Hospital",
+  "Station List" : "Malir Halt\nLiaquat national Hospital"
+}, {
+  "Vehicle Name" : "55",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/55",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Memon Goth - Gadap Town",
+  "Ending Point" : "Lee Market",
+  "Station List" : "Memon Goth - Gadap Town\nMalir 15\nKala Board Malir\nMalir Halt\nWireless Gate Bus Stop\nChhota Gate\nStar Gate - Shah Faisal Colony\nNata Khan\nDrigh Road\nPAF Base Faisal\nKarsaz\nPir Pagara Bus Stop\nNational Stadium\nAga Khan Hospital\nLiaquat national Hospital\nNew Town\nJail Chowrangi\npeoples secretariat\nGuru Mandir\nLasbela\nSoldier Bazaar\nGarden\nRanchore Line\nOld Haji Camp - Timber Market\nLee Market"
+}, {
+  "Vehicle Name" : "7-C",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/7-C",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Buffer Zone",
+  "Ending Point" : "Dockyard",
+  "Station List" : "Buffer Zone\nDC Office Central\nPeoples Chowrangi\nKarachi Medical and Dental College\nLandi Kotal Chowrangi Roundabout\nZiauddin Hospital - North Nazimabad\nMoosa Colony - Gulberg Town\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nDaak Khana - Liaquatabad\nRizvia Society - Nazimabad no 1\nKhamosh Colony - Nazimabad\nBara Board\nNauras Chowrangi - SITE Karachi\nHabib Bank Chowrangi\nHaroonabad\nSiemens Chowrangi\nGhani Chowrangi\nShershah\nShaheen Hotel - Shershah\nShershah Kabari Market\nPankha Hotel - Shershah\nChakiwara\nLee Market\nKhajor Bazar - Lee Market\nSarafa Bazar\nKharadar\nTower\nDockyard"
+}, {
+  "Vehicle Name" : "7-Star",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/7-Star",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "23",
+  "Starting Point" : "Orangi 11",
+  "Ending Point" : "Khokhrapar",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "9-C",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/9-C",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Shireen Jinnah Colony",
+  "Ending Point" : "Model Colony Mor",
+  "Station List" : "Shireen Jinnah Colony\nZiauddin University - Clifton\nBilawal Chowrangi\nAbdullah Shah Ghazi\nBadar Commercial 26 Street\nDHA phase 6\nSaudi Embassy - DHA Phase 5\nGizri\nPunjab Chowrangi\nCantt station\nJinnah Hospital\nKala Pul\nFTC Building\nGora Qabaristan\nNursery\nLal Kothi Shahrah-e-Faisal\nFine House\nBaloch Colony Stop\nAwami Markaz\nKarsaz\nPAF Museum\nPAF Base Faisal\nDrigh Road\nNata Khan\nShah Faisal Colony Gate\nStar Gate - Shah Faisal Colony\nWireless Gate Bus Stop\nMalir Halt\nModel Colony Mor"
+}, {
+  "Vehicle Name" : "A-25",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/A-25",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Ahsanabad",
+  "Ending Point" : "Yousuf Goth",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "A-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/A-3",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Maymar Mor",
+  "Ending Point" : "Dockyard",
+  "Station List" : "Maymar Mor\nAl Asif Square\nSohrab Goth\nAbul Hasan Isphani Road\nParadise Bakery\nGulshan Police Station\nMaskan Chowrangi\nDisco Bakers and Sweets\nGulshan Chowrangi\nNIPA Chowrangi\nFederal Urdu University - University Rd\nOld Sabzi Mandi\nExpo Center\nHassan Square\nEssa Nagri\nGhareebabad\nLiaquatabad No.10 - Lalukhet\nNazimabad Petrol Pump\nHabib Bank Chowrangi\nSiemens Chowrangi\nHaroonabad\nGhani Chowrangi\nShershah\nMeezan Head Office\nGulbai\nAgra Taj Colony\nIC Bridge\nWest Wharf road\nDockyard"
+}, {
+  "Vehicle Name" : "Abdullah",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Abdullah",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "15",
+  "Starting Point" : "Shershah",
+  "Ending Point" : "Manzil Pump",
+  "Station List" : "Shershah\nMeezan Head Office\nGulbai\nAgra Taj Colony\nTower\nAmerican Embassy Karachi\nBoat Basin\nSubmarine Chowk\nPunjab Chowrangi\nAkhtar Colony\nKorangi Crossing Road\nDefence Mor\nQuaidabad\nQayyumabad\nManzil Pump"
+}, {
+  "Vehicle Name" : "Al Azad",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Al-Azad",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "2",
+  "Starting Point" : "Karachi Marriott Hotel",
+  "Ending Point" : "Safoora Chowrangi",
+  "Station List" : "Karachi Marriott Hotel\nSafoora Chowrangi"
+}, {
+  "Vehicle Name" : "Al Khair",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Al-Khair-",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "8",
+  "Starting Point" : "Musharraf Colony - Keamari",
+  "Ending Point" : "Lee Market",
+  "Station List" : "Musharraf Colony - Keamari\nNaval Colony\nMach Mor\nShershah\nShershah Kabari Market\nPankha Hotel - Shershah\nMiran Nakka Lyari\nLee Market"
+}, {
+  "Vehicle Name" : "Bilal",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Bilal",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "33",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Dawood Roundabout - Saddar",
+  "Station List" : "Nazimabad No. 1"
+}, {
+  "Vehicle Name" : "D-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "30",
+  "Starting Point" : "Sindhi Goth",
+  "Ending Point" : "Abidabad",
+  "Station List" : "Sindhi Goth\nPipri Goth\nRazzaqabad\nBhains Colony Mor\nManzil Pump\nQuaidabad\nMalir Court\nMalir 15\nMalir Halt\nStar Gate - Shah Faisal Colony\nShah Faisal Colony Gate\nNata Khan\nDrigh Road\nPAF Base Faisal\nKarsaz\nPir Pagara Bus Stop\nNational Stadium\nMashriq Centre\nHassan Square\nExpo Center\nEssa Nagri\nGhareebabad\nLiaquatabad No.10 - Lalukhet\nNazimabad Petrol Pump\nHabib Bank Chowrangi\nValika\nFrontier Morr Metroville\nOrangi 4\nMominabad - Orangi Town\nAbidabad"
+}, {
+  "Vehicle Name" : "D-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "52",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Sharifabad - Korangi",
+  "Station List" : "Ittehad Town\nPakora Chowk\nBaldia 8\nBaldia 9\nBismillah Chowk\nJungle School (Baldia)\nBaldia 19-D\nBaldia 7 Graveyard\nRasheedabad\nGCT College Mor\nGhani Chowrangi\nSiemens Chowrangi\nHabib Bank Chowrangi\nNazimabad No. 1\nNazimabad Petrol Pump\nLiaquatabad No.10 - Lalukhet\nGhareebabad\nBaloch Hotel\nEssa Nagri\nExpo Center\nHassan Square\nCivic Center\nMashriq Centre\nNational Stadium\nPir Pagara Bus Stop\nPAF Museum\nBaloch Colony Stop\nKarsaz\nBase Montessori PAF\nDrigh Road\nNata Khan\nShah Faisal Colony Gate\nStar Gate - Shah Faisal Colony\nChota Gate - Shah Faisal Colony\nWireless Gate Bus Stop\nMalir Halt\nKala Board Malir\nMalir 15\nMalir Court\nQuaidabad\nDawood Chowrangi\nFuture Colony - Landhi Town\nMansehra Colony\nMurtaza Chowrangi\nBilal Chowrangi\nVita Chowrangi - Korangi\nShan Chorangi - Korangi\nBrookes Chowrangi\nGodam Chowrangi\nImtiaz Store - KPT Interchange\nQayyumabad\nSharifabad - Korangi"
+}, {
+  "Vehicle Name" : "D-17",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-17",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "1",
+  "Starting Point" : "Quaidabad",
+  "Ending Point" : "Quaidabad",
+  "Station List" : "Quaidabad"
+}, {
+  "Vehicle Name" : "D-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-3",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "13",
+  "Starting Point" : "Nagan Chowrangi",
+  "Ending Point" : "Indus Hospital - Korangi",
+  "Station List" : "Nagan Chowrangi\nShafiq Mor\nSohrab Goth\nLucky One Mall\nImtiaz Mega Store - Gulshan\nGulshan Chowrangi\nNIPA Chowrangi\nJohar Mor\nCentral Ordnance Depot (COD)\nDrigh Road\nShah Faisal Colony Gate\nSinger Chowrangi\nIndus Hospital - Korangi"
+}, {
+  "Vehicle Name" : "D-7",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-7",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "23",
+  "Starting Point" : "New Muzaffarabad Colony Landhi",
+  "Ending Point" : "Khadim Hussain Solangi Goth",
+  "Station List" : "New Muzaffarabad Colony Landhi\nDawood Chowrangi\nQuaidabad\nMalir Court\nMalir 15\nKala Board Malir\nMalir Halt\nStar Gate - Shah Faisal Colony\nShah Faisal Colony Gate\nNata Khan\nDrigh Road\nMillennium Mall\nJohar Mor\nAladin Park\nNIPA Chowrangi\nSir Syed University (Rashid Minhas Rd.)\nGulshan Chowrangi\nLucky One Mall\nSohrab Goth\nAl Asif Square\nPunjab Adda - Bus Stand\nJamali Flyover\nKhadim Hussain Solangi Goth"
+}, {
+  "Vehicle Name" : "Daata",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Daata",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "23",
+  "Starting Point" : "KDA Flats- Surjani",
+  "Ending Point" : "Badar Commercial 26 Street",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\nGodhra\nShafiq Mor\nLucky One Mall\nImtiaz Mega Store - Gulshan\nGulshan Chowrangi\nNIPA Chowrangi\nNew Sabzi Mandi\nHassan Square\nJail Chowrangi\nTariq Road\nNursery\nRegent Plaza\nJinnah Hospital\nAskari 1\nCantt station\nPunjab Chowrangi\nDo Talwar\nClifton\nAbdullah Shah Ghazi\nDolmen Mall - Clifton\nBadar Commercial 26 Street"
+}, {
+  "Vehicle Name" : "F-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/F-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "40",
+  "Starting Point" : "Pakhtoonabad",
+  "Ending Point" : "Bhains Colony Mor",
+  "Station List" : "Sakhi Hasan Chowrangi"
+}, {
+  "Vehicle Name" : "G-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "38",
+  "Starting Point" : "Yousuf Goth",
+  "Ending Point" : "Maroora Goth Bus Stop",
+  "Station List" : "Yousuf Goth\nHub River road\nMurshid Hospital\nMach Mor\nTraffic Police Kiosk - Baldia 2\nPhilips Factory - SITE Karachi\nSITE Police Station - A\nMetroville Khyber Gate\nFrontier Morr Metroville\nBadar Chowk\nOrangi 4\nOrangi 5\nMetro Cinema\nBanaras Bus Stop\nAbdullah Govt College for Women\nBoard Office Chowrangi\nKDA Chowrangi\nBank Quarters -- North Nazimabad\nZiauddin Hospital - North Nazimabad\nMoosa Colony - Gulberg Town\nKarimabad - Meena Bazaar\nNaseerabad - Gulberg Town\nWater Pump\nLucky One Mall\nMoti Mahal\nGulshan Chowrangi\nNIPA Chowrangi\nKarachi Safari Park\nMetro Safari Store\nAbdullah Apartments - Gulistan-e-johar\nJohar Mor\nContinental Sweets & Bakers - Gulistan-e-Johar\nJohar Chowrangi\nRabia City- Gulistan-e-Johar\nPehlwan Goth\nSafoora Chowrangi\nKiran Hospital\nMaroora Goth Bus Stop"
+}, {
+  "Vehicle Name" : "G-13",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-13",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "7",
+  "Starting Point" : "Banaras Bus Stop",
+  "Ending Point" : "Karimabad - Meena Bazaar",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "G-17",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-17",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Mach Mor",
+  "Ending Point" : "Safoora Chowrangi",
+  "Station List" : "Board Office Chowrangi\nHyderi Market\nSakhi Hasan Chowrangi\nErum Shopping\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "G-19",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-19",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Hub filter plant",
+  "Ending Point" : "National Highway 5",
+  "Station List" : "Hub filter plant\nSultanabad - New Karachi\nShrine of Manghopir\nNaya nazimabad - Main Gate\nQasba Mor\nBanaras Bus Stop\nValika\nHabib Bank Chowrangi\nBara Board\nJahangirabad\nGolimar Old\nKhamosh Colony - Nazimabad\nDaak Khana - Liaquatabad\nLiaquatabad No.10 - Lalukhet\nGhareebabad\nEssa Nagri\nNIPA Chowrangi\nHassan Square\nKarachi Safari Park\nMetro Safari Store\nAladin Park\nJohar Mor\nJohar Chowrangi\nPehlwan Goth\nNational Highway 5"
+}, {
+  "Vehicle Name" : "G-27",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-27",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "32",
+  "Starting Point" : "Afridi Chowk - Chisti Nagar",
+  "Ending Point" : "Safoora Chowrangi",
+  "Station List" : "Afridi Chowk - Chisti Nagar\nEid Gah Morh - Orangi\nL Block Rd - Aziz Nagar\nSabri Chowk Rd - Orangi Town\nUrdu Chowk - Orangi Town\nOrangi No 10\nOrangi 4\nOrangi 5\nMetro Cinema\nBanaras Bus Stop\nAbdullah Govt College for Women\nBoard Office Chowrangi\nKDA Chowrangi\nZiauddin Hospital - North Nazimabad\nLandi Kotal Chowrangi Roundabout\nPeoples Chowrangi\nBuffer Zone\nSohrab Goth\nFazal Mill - Block 21 Federal B Area\nLucky One Mall\nImtiaz Mega Store - Gulshan\nGulshan Chowrangi\nNIPA Chowrangi\nKarachi Safari Park\nMetro Safari Store\nContinental Sweets & Bakers - Gulistan-e-Johar\nJohar Chowrangi\nJohar Mor\nPehlwan Goth\nPIA Society\nBakhtawar Goth - Gulistan e Jauhar\nSafoora Chowrangi"
+}, {
+  "Vehicle Name" : "G-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-3",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "40",
+  "Starting Point" : "Safoora Chowrangi",
+  "Ending Point" : "Mohajir Camp No. 7",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "G-7",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-7",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "33",
+  "Starting Point" : "Safoora Chowrangi",
+  "Ending Point" : "Mohajir Camp",
+  "Station List" : "Safoora Chowrangi\nDow Ojha Campus\nMosamiyat\nKarachi Univerity - Siver Jubilee Gate\nNED University\nUniversity Road\nNIPA Chowrangi\nSir Syed University (Rashid Minhas Rd.)\nOld Sabzi Mandi\nExpo Center\nHassan Square\nCivic Center\nNew Town\nBahadurabad\nTariq Road\nSociety Graveyard\nKhudadad Colony\nNumaish Chowrangi\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nCity Court\nBolton Market\nTower\nAgra Taj Colony\nGulbai\nMeezan Head Office\nShershah\nMohajir Camp No. 7\nMohajir Camp No. 8\nNai Abadi\nGulshan Ghazi\nMohajir Camp"
+}, {
+  "Vehicle Name" : "Gulistan",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Gulistan",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "35",
+  "Starting Point" : "Bhitaiabad",
+  "Ending Point" : "Saudi Embassy - DHA Phase 5",
+  "Station List" : "Bhitaiabad\nHabib University\nJohar Chowrangi\nJohar Mor\nNIPA Chowrangi\nKarachi Safari Park\nMetro Safari Store\nFederal Urdu University - University Rd\nHassan Square\nExpo Center\nCivic Center\nNew Town\nJail Chowrangi\nNumaish Chowrangi\nSeventh-day Adventist Hospital\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nCity Court\nBolton Market\nTower\nBahria Complex 1\nLalazar\nBahria Complex 2\nBahria Complex 3\nAmerican Embassy Karachi\nMai Kolachi Road\nBoat Basin\nBilawal Chowrangi\nSouth City Hospital - Clifton\nAbdullah Shah Ghazi\nKhayaban-e-Ittehad\nDHA Phase 7\nSea View - Clifton\nSaudi Embassy - DHA Phase 5"
+}, {
+  "Vehicle Name" : "Ilyas",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Ilyas",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "47",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Bhains Colony Mor",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "Imran",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Imran",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "14",
+  "Starting Point" : "Hawksbay Beach",
+  "Ending Point" : "Qayyumabad",
+  "Station List" : "Hawksbay Beach\nPakistan Marine Academy Maripur\nGulbai\nAgra Taj Colony\nIC Bridge\nKharadar\nTower\nBoat Basin\nPunjab Chowrangi\nGold Mark Shopping Mall 1\nAskari 1 - Karachi\nKPT Interchange\nImtiaz Store - KPT Interchange\nQayyumabad"
+}, {
+  "Vehicle Name" : "Khan",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Khan",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "35",
+  "Starting Point" : "Abdullah Chowk",
+  "Ending Point" : "Abdullah Shah Ghazi",
+  "Station List" : "Abdullah Chowk\nKDA Flats- Surjani\nKarimi Chowrangi\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nAnnu Bhai Park\nEnquiry Office\nNazimabad No. 1\nSanitary Market (Gulbahar)\nLasbela\nPatel Para (Guru Mandir)\nNumaish Chowrangi"
+}, {
+  "Vehicle Name" : "Marwat",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Marwat",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "44",
+  "Starting Point" : "Bhudni Goth",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : "Bhudni Goth\nHawksbay Beach\nPakistan Marine Academy Maripur\nTruck Ada - Mauripur\nPAF Masroor Base - Mauripur\nGulbai\nAgra Taj Colony\nICI Bridge\nKharadar\nTower\nBolton Market\nCity Court\nLight House\nCivil Hospital\nJama Cloth Market\nUrdu Bazar\nNumaish Chowrangi\nKhudadad Colony\nTariq Road\nAllah Wali Chowrangi - Tariq Road\nNursery\nLal Kothi Shahrah-e-Faisal\nBaloch Colony Stop\nDrigh Road\nMalir Halt\nKala Board Malir\nMalir 15\nMalir Court\nQuaidabad\nDawood Chowrangi\nMurtaza Chowrangi\nSinger Chowrangi\nShaan Chowrangi (Chamra Chowrangi)\nGodam Chowrangi\nQayyumabad\nAkhtar Colony\nKhayaban-e-Shahbaz\nBadar Commercial 26 Street\nNeelam Colony\nAbdullah Shah Ghazi\nClifton\nBilawal Chowrangi\nShireen Jinnah Colony"
+}, {
+  "Vehicle Name" : "MashaAllah",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/MashaAllah",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Hijrat Colony",
+  "Ending Point" : "Khairabad - Gulshan-e-Zia",
+  "Station List" : "Hijrat Colony\nSultanabad (New Haji Camp)\nLalazar\nNetty Jetty Bridge\nTower\nBolton Market\nCity Court\nLight House\nCivil Hospital\nJama Cloth Market\nTibet Center\nMaki Masjid - Saddar\nGarden\nRexer Line\nGolimar Old\nBara Board\nHabib Bank Chowrangi\nValika\nBanaras Bus Stop\nOrangi 5\nOrangi 12\nOrangi 13\nOrangi 14\nGulshan-e-Bihar\nKhairabad - Gulshan-e-Zia"
+}, {
+  "Vehicle Name" : "Mashriq",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Mashriq",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Bhains Colony Mor",
+  "Ending Point" : "Naval Colony",
+  "Station List" : "Bhains Colony Mor\nGul Ahmed Chowrangi\nDawood Chowrangi\nMurtaza Chowrangi\nIndus Chowrangi\nBilal Chowrangi\nVita Chowrangi - Korangi\nBrookes Chowrangi\nKPT Interchange\nImtiaz Store - KPT Interchange\nAkhtar Colony\nGold Mark Shopping Mall 1\nDefence Mor\nGora Qabaristan\nSaddar\nGarden\nFuwara Chowk - Garden West Area\nBara Board\nHabib Bank Chowrangi\nSITE Police Station - A\nMetroville Khyber Gate\nFaqir Colony\nPareshan Chowk - Faqir Colony Rd\nJungle School (Baldia)\nPolice Training Center Saeedabad\nMach Mor\nNaval Colony"
+}, {
+  "Vehicle Name" : "Masood",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Masood",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Bhains Colony Mor",
+  "Ending Point" : "Khuda Ki Basti - Taiser Town",
+  "Station List" : "Nagan Chowrangi\nUP Mor\nPower House Chowrangi\n4K Chowrangi"
+}, {
+  "Vehicle Name" : "Muslim",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Muslim",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "45",
+  "Starting Point" : "Keamari",
+  "Ending Point" : "Gulshan e Hadeed",
+  "Station List" : "Keamari\nJackson Market\nPort Grand Karachi\nTower\nI.I. Chundrigar\nBolton Market\nCity Court\nLight House\nCivil Hospital\nJama Cloth Market\nShaheen Complex\nArts Council of Pakistan Karachi\nCantt station\nJinnah Hospital\nRegent Plaza\nFTC Building\nNursery\nLaal Kothi Bus Stop\nFine House\nBaloch Colony Stop\nAwami Markaz\nPAF Museum\nKarsaz\nPAF Base Faisal\nDrigh Road\nNata Khan\nShah Faisal Colony Gate\nChhota Gate\nWireless Gate Bus Stop\nKala Board Malir\nMalir 15\nMalir Halt\nMalir Court\nMurghi Khana\nQuaidabad\nManzil Pump\nBhains Colony Mor\nFAST University - Bhains Colony\nChowkandi Mor\nAbdullah Goth\nRazzaqabad\nSteel Mill Mor\nPipri Goth\nNational Highway 5\nGulshan e Hadeed"
+}, {
+  "Vehicle Name" : "N",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "5",
+  "Starting Point" : "Karimabad - Meena Bazaar",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "N-4",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-4",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "12",
+  "Starting Point" : "Metroville Khyber Gate",
+  "Ending Point" : "Abdullah Shah Ghazi",
+  "Station List" : "Metroville Khyber Gate\nFrontier Morr Metroville\nMeezan Head Office\nGulbai\nTower\nAgra Taj Colony\nKeamari\nMasan Chowk\nShireen Jinnah Colony\nGizri\nClifton\nAbdullah Shah Ghazi"
+}, {
+  "Vehicle Name" : "N-5",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-5",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Naval Colony",
+  "Ending Point" : "Shaan Chowrangi (Chamra Chowrangi)",
+  "Station List" : "Naval Colony\nFareed Colony - Orangi Town\nUrdu Chowk - Orangi Town\nOrangi No 10\nOrangi 5\nBanaras Bus Stop\nMETRO Manghopir Store\nHabib Bank Chowrangi\nSiemens Chowrangi\nHaroonabad\nGhani Chowrangi\nShershah\nMeezan Head Office\nGulbai\nAgra Taj Colony\nTower\nMT Khan Road\nPIDC\nCantt station\nJinnah Hospital\nKala Pul\nNMC Hospital\nNADRA Mega Centre DHA\nAkhtar Colony\nQayyumabad\nBuscuit Factory\nShaan Chowrangi (Chamra Chowrangi)"
+}, {
+  "Vehicle Name" : "New Afridi",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/New-Afridi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "26",
+  "Starting Point" : "Bhains Colony Mor",
+  "Ending Point" : "Gulshan Ghazi",
+  "Station List" : "Bhains Colony Mor\nPMTF - Jumma Goth\nMansehra Colony\nMurtaza Chowrangi\nGodam Chowrangi\nQayyumabad\nDefence Mor\nPunjab Chowrangi\nAmerican Embassy Karachi\nSaudi Embassy - DHA Phase 5\nAbdullah Shah Ghazi\nShireen Jinnah Colony\nMasan Chowk\nTower\nAgra Taj Colony\nGulbai\nMeezan Head Office\nShershah\nGhani Chowrangi\nHaroonabad\nSiemens Chowrangi\nHabib Bank Chowrangi\nMetroville Khyber Gate\nMominabad - Orangi Town\nFaqir Colony\nGulshan Ghazi"
+}, {
+  "Vehicle Name" : "P-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/P-3",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "19",
+  "Starting Point" : "Shireen Jinnah Colony",
+  "Ending Point" : "Abdullah Mor - Surjani",
+  "Station List" : "Lasbela\nNagan Chowrangi\nUP Mor\n2 Minute Chowrangi"
+}, {
+  "Vehicle Name" : "S-2 Bus",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/S-2-Bus",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "22",
+  "Starting Point" : "Korangi Coast Guard",
+  "Ending Point" : "Godhra",
+  "Station List" : "Korangi Coast Guard\nKorangi 2 ½\nKorangi 2\nKorangi 1\nNasir Jump\nKorangi Crossing Road\nQayyumabad\nDefence phase 2\nBaloch Colony Stop\nNaheed Supermarket - Main Shaheed-e-Millat Rd\nTariq Road\nJail Chowrangi\nNew Town\nOld Sabzi Mandi\nHassan Square\nNIPA Chowrangi\nGulshan Chowrangi\nMoti Mahal\nLucky One Mall\nSohrab Goth\nShafiq Mor\nGodhra"
+}, {
+  "Vehicle Name" : "Shiraz",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Shiraz",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "31",
+  "Starting Point" : "Check Post 6 Malir Cantt",
+  "Ending Point" : "Hawksbay Beach",
+  "Station List" : "Check Post 6 Malir Cantt\nSafoora Chowrangi\nMosamiyat\nKarachi Univerity - Siver Jubilee Gate\nNED University\nUniversity Road\nNIPA Chowrangi\nKarachi Safari Park\nSir Syed University (Rashid Minhas Rd.)\nFederal Urdu University - University Rd\nExpo Center\nCivic Center\nOld Sabzi Mandi\nHassan Square\nNew Town\nJail Chowrangi\nGuru Mandir\nNumaish Chowrangi\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nLight House\nCity Court\nBolton Market\nTower\nIC Bridge\nAgra Taj Colony\nGulbai\nPakistan Marine Academy Maripur\nMaripur Cycle Chowrangi\nHawksbay Beach"
+}, {
+  "Vehicle Name" : "SL",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/SL",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Saddar",
+  "Ending Point" : "89 Landhi Rd",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "Super Hassan Zai",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Super-Hassan-Zai",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "New Sabzi Mandi",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : "New Sabzi Mandi\nMaymar Mor\nJamali Flyover\nAl Asif Square\nSohrab Goth\nLucky One Mall\nGulshan Chowrangi\nNIPA Chowrangi\nOld Sabzi Mandi\nHassan Square\nExpo Center\nNew Town\nJail Chowrangi\nTariq Road\nAllah Wali Chowrangi - Tariq Road\nNursery\nGora Qabaristan\nRegent Plaza\nJinnah Hospital\nCantt station\nAskari 3\nDo Talwar\nClifton\nDolmen Mall - Clifton\nAbdullah Shah Ghazi\nSouth City Hospital - Clifton\nBilawal Chowrangi\nZiauddin University - Clifton\nShireen Jinnah Colony"
+}, {
+  "Vehicle Name" : "Super Muslim Coach",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/super-muslim-coach",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "17",
+  "Starting Point" : "Port Qasim Mor",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : "Port Qasim Mor\nBhains Colony Mor\nManzil Pump\nQaddafi Town\nYunus Chowrangi\nDawood Chowrangi\nMansehra Colony\nBilal Chowrangi\nGodam Chowrangi\nQayyumabad\nAkhtar Colony\nKhayaban-e-Ittehad\nKhayaban-e-Shahbaz\nBadar Commercial 26 Street\nAbdullah Shah Ghazi\nClifton\nShireen Jinnah Colony"
+}, {
+  "Vehicle Name" : "W-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Ahsanabad",
+  "Ending Point" : "Keamari",
+  "Station List" : "Ahsanabad\nAllah waali - New Karachi\nSindhi Hotel - New Karachi\nNala Stop - New Karachi\nGodhra\nShafiq Mor\nSohrab Goth\nAncholi\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nJehangir Rd\nGuru Mandir\nNumaish Chowrangi\nSeventh-day Adventist Hospital\nUrdu Bazar\nJama Cloth Market\nLight House\nCity Court\nBolton Market\nTower\nNetty Jetty Bridge\nJackson Market\nKeamari"
+}, {
+  "Vehicle Name" : "W-18",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-18",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Baba Mor",
+  "Ending Point" : "Rehri Goth Landhi",
+  "Station List" : "UP Mor\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "W-22",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-22",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "33",
+  "Starting Point" : "Rehmania Mor",
+  "Ending Point" : "Korangi 2 ½",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "W-25",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-25",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "20",
+  "Starting Point" : "Sindhi Hotel - New Karachi",
+  "Ending Point" : "Khyber Chowk - Ittihad Town",
+  "Station List" : "UP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market"
+}, {
+  "Vehicle Name" : "W-55",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-55",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "26",
+  "Starting Point" : "Khairabad - Gulshan-e-Zia",
+  "Ending Point" : "Lyari Basti - Taiser Town",
+  "Station List" : "Board Office Chowrangi\nHyderi Market\nJummah Bazar (Bhayani Shopping Center)\nSakhi Hasan Chowrangi\nErum Shopping\nNagan Chowrangi\nUP Mor\nRoad 4200 - Saleem Centre\nPower House Chowrangi\n2 Minute Chowrangi\n4K Chowrangi\nKarimi Chowrangi\nKDA Flats- Surjani"
+}, {
+  "Vehicle Name" : "X-10",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/X-10",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "34",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Khayaban-e-Ghalib - DHA Phase 8",
+  "Station List" : "Ittehad Town\nBaldia 9\nBaldia 8\nBismillah Chowk\nJungle School (Baldia)\nRubi Mor\nPolice Training Center Saeedabad\nMach Mor\nBaldia 4\nBaldia 3\nBaldia 2\nShershah\nGhani Chowrangi\nHaroonabad\nHabib Bank Chowrangi\nNazimabad No. 1\nNazimabad Petrol Pump\nLiaquatabad No.10 - Lalukhet\nTeen Hatti\nGuru Mandir\npeoples secretariat\nLines Area\nSaddar\nLucky Star - Saddar\nCantt station\nAskari 3\nDehli Colony\nPunjab Chowrangi\nP&T Colony\nGizri\nKhayaban-e-Ittehad\nMisri Shah\nDHA phase 6\nKhayaban-e-Ghalib - DHA Phase 8"
+}, {
+  "Vehicle Name" : "X-23",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/X-23",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "24",
+  "Starting Point" : "Fareed Colony - Orangi Town",
+  "Ending Point" : "Bilal Colony - Landhi Town",
+  "Station List" : "Nazimabad No. 1"
+}, {
+  "Vehicle Name" : "X-8",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/X-8",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "41",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Rohri Goth - Landhi Town",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "Z-2",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Z-2",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbus-black.png&w=384&q=75",
+  "Vehicle Type" : "Bus",
+  "Total Stops" : "14",
+  "Starting Point" : "Gulshan Ghazi",
+  "Ending Point" : "Khayaban-e-Shaheed",
+  "Station List" : "Gulshan Ghazi\nFareed Colony - Orangi Town\nOrangi No 10\nOrangi 5\nBanaras Bus Stop\nHabib Bank Chowrangi\nBara Board\nGarden\nMaki Masjid - Saddar\nSaddar\nHotel Mehran - Shahrah-e-Faisal Rd\nCantt station\nPunjab Chowrangi\nKhayaban-e-Shaheed"
+}, {
+  "Vehicle Name" : "007",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/007",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Shrine of Manghopir",
+  "Ending Point" : "Daak Khana - Liaquatabad",
+  "Station List" : "Sakhi Hasan Chowrangi\nFive Star Chowrangi\nHyderi Market"
+}, {
+  "Vehicle Name" : "2-J",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/2-J",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "27",
+  "Starting Point" : "Saddar",
+  "Ending Point" : "Al hameed",
+  "Station List" : "Board Office Chowrangi\nFive Star Chowrangi\nHyderi Market\nJummah Bazar (Bhayani Shopping Center)\nNagan Chowrangi\nRoad 2400 - Aisha Complex\nRoad 4200 - Saleem Centre\nPower House Chowrangi\nSakhi Hasan Chowrangi\nUP Mor\n2 Minute Chowrangi\nErum Shopping"
+}, {
+  "Vehicle Name" : "4-E",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-E",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "23",
+  "Starting Point" : "Abdullah Chowk",
+  "Ending Point" : "Numaish Chowrangi",
+  "Station List" : "Abdullah Chowk\nKDA Flats- Surjani\nKarimi Chowrangi\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nAnnu Bhai Park\nEnquiry Office\nNazimabad No. 1\nSanitary Market (Gulbahar)\nLasbela\nPatel Para (Guru Mandir)\nNumaish Chowrangi"
+}, {
+  "Vehicle Name" : "4-X",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/4-X",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "27",
+  "Starting Point" : "Surjani - Sector 7A",
+  "Ending Point" : "Guru Mandir",
+  "Station List" : "KDA Flats- Surjani\nKarimi Chowrangi\n4K Chowrangi\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nLasbela\nPatel Para (Guru Mandir)"
+}, {
+  "Vehicle Name" : "555",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/555",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "20",
+  "Starting Point" : "Sindhi Hotel - New Karachi",
+  "Ending Point" : "Guru Mandir",
+  "Station List" : "UP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nHyderi Market\nBoard Office Chowrangi\nLasbela\nPatel Para (Guru Mandir)"
+}, {
+  "Vehicle Name" : "786",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/786",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "19",
+  "Starting Point" : "Lyari Basti - Taiser Town",
+  "Ending Point" : "NIPA Chowrangi",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "7-D",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/7-D",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "11",
+  "Starting Point" : "North Karachi 7-D - Iqra University",
+  "Ending Point" : "Lucky One Mall",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "8",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/8-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "14",
+  "Starting Point" : "Pahar Ganj",
+  "Ending Point" : "Ahsanabad",
+  "Station List" : "Pahar Ganj\nJustice Asghar Ali Shah Cricket Stadium\nKDA Chowrangi\nZiauddin Hospital - North Nazimabad\nMoosa Colony - Gulberg Town\nKarimabad - Meena Bazaar\nAyesha Manzil\nNaseerabad - Gulberg Town\nWater Pump\nAncholi\nSohrab Goth\nAl Asif Square\nJamali Flyover\nAhsanabad"
+}, {
+  "Vehicle Name" : "A",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/A",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "3",
+  "Starting Point" : "Saddar",
+  "Ending Point" : "NIPA Chowrangi",
+  "Station List" : "Saddar\nMobile Market Saddar\nNIPA Chowrangi"
+}, {
+  "Vehicle Name" : "A-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/A-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "4",
+  "Starting Point" : "Disco Bakers and Sweets",
+  "Ending Point" : "Gulshan Chowrangi",
+  "Station List" : "Disco Bakers and Sweets\nMaskan Chowrangi\nNIPA Chowrangi\nGulshan Chowrangi"
+}, {
+  "Vehicle Name" : "A-18",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/A-18",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "19",
+  "Starting Point" : "Chungi Ghazi",
+  "Ending Point" : "Millennium Mall",
+  "Station List" : "UP Mor\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "AA1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/AA1-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : "Korangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road\nQayyumabad\nManzoor Colony\nBaloch Colony Stop\nTariq Road\nJail Chowrangi\nEssa Nagri\nLiaquatabad No.10 - Lalukhet"
+}, {
+  "Vehicle Name" : "AS-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/AS-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "8",
+  "Starting Point" : "Korangi 6",
+  "Ending Point" : "4K Chowrangi",
+  "Station List" : "4K Chowrangi\nNagan Chowrangi\nUP Mor"
+}, {
+  "Vehicle Name" : "B-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/B-1-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "11",
+  "Starting Point" : "Daak Khana - Liaquatabad",
+  "Ending Point" : "Allah bux village - Ahsanabad",
+  "Station List" : "Daak Khana - Liaquatabad\nLiaquatabad No.10 - Lalukhet\nKarimabad - Meena Bazaar\nAyesha Manzil\nNaseerabad - Gulberg Town\nWater Pump\nAncholi\nSohrab Goth\nAl Asif Square\nJamali Flyover\nAllah bux village - Ahsanabad"
+}, {
+  "Vehicle Name" : "B-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/B-3",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "8",
+  "Starting Point" : "Numaish Chowrangi",
+  "Ending Point" : "Safoora Chowrangi",
+  "Station List" : "Numaish Chowrangi"
+}, {
+  "Vehicle Name" : "B-9",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/B-9-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "9",
+  "Starting Point" : "Korangi 6",
+  "Ending Point" : "Korangi Crossing Road",
+  "Station List" : "Korangi 6\nKorangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road"
+}, {
+  "Vehicle Name" : "D-13",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-13",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "12",
+  "Starting Point" : "Jungle School (Baldia)",
+  "Ending Point" : "Banaras Bus Stop",
+  "Station List" : "Jungle School (Baldia)\nBismillah Chowk\nBaldia 19-D\nMohajir Camp No. 7\nRasheedabad\nLabor Square - Metroville SITE\nGCT College Mor\nSITE Police Station - A\nHabib Chowrangi - Metroville\nValika\nMETRO Manghopir Store\nBanaras Bus Stop"
+}, {
+  "Vehicle Name" : "D-22",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-22",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "23",
+  "Starting Point" : "Lyari 50",
+  "Ending Point" : "Teen Hatti",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market"
+}, {
+  "Vehicle Name" : "D-3",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/D-3-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "14",
+  "Starting Point" : "Guru Mandir",
+  "Ending Point" : "Munawar Chowrangi - Gulistan-e-Johar",
+  "Station List" : "Guru Mandir\nJehangir Road\nTeen Hatti\nDaak Khana - Liaquatabad\nLiaquatabad No.10 - Lalukhet\nAyesha Manzil\nNaseerabad - Gulberg Town\nWater Pump\nSohrab Goth\nAl Asif Square\nJamali Flyover\nMaymar Mor\nAhsanabad\nMunawar Chowrangi - Gulistan-e-Johar"
+}, {
+  "Vehicle Name" : "Double Jhanda",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Double-Jhanda-",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "7",
+  "Starting Point" : "Kharadar",
+  "Ending Point" : "Teen Hatti",
+  "Station List" : "Lasbela"
+}, {
+  "Vehicle Name" : "F-12",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/F-12",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "11",
+  "Starting Point" : "Allah waali - New Karachi",
+  "Ending Point" : "Teen Hatti",
+  "Station List" : "Allah waali - New Karachi\nSindhi Hotel - New Karachi\nNala Stop - New Karachi\nGodhra\nShafiq Mor\nSohrab Goth\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nTeen Hatti"
+}, {
+  "Vehicle Name" : "FM",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/FM",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "29",
+  "Starting Point" : "Abdullah Mor - Surjani",
+  "Ending Point" : "Malir 15",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "FS-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/FS-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "17",
+  "Starting Point" : "L Block Rd - Aziz Nagar",
+  "Ending Point" : "Anarkali Sector 6 - Surjani Town",
+  "Station List" : "Board Office Chowrangi\nHyderi Market\nSakhi Hasan Chowrangi\nNagan Chowrangi\nUP Mor\nRoad 4200 - Saleem Centre\nPower House Chowrangi\n2 Minute Chowrangi\n4K Chowrangi"
+}, {
+  "Vehicle Name" : "G-2",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-2",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "12",
+  "Starting Point" : "Daak Khana - Liaquatabad",
+  "Ending Point" : "New Sabzi Mandi",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "G-25",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/G-25",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "7",
+  "Starting Point" : "Five Star Chowrangi",
+  "Ending Point" : "Gulshan Chowrangi",
+  "Station List" : "Five Star Chowrangi"
+}, {
+  "Vehicle Name" : "G-7 Chinchi",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/g7-chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "22",
+  "Starting Point" : "Baba Mor",
+  "Ending Point" : "Bismillah Chowk",
+  "Station List" : "UP Mor\nNagan Chowrangi\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi"
+}, {
+  "Vehicle Name" : "GM",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/GM-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "21",
+  "Starting Point" : "Malir 15",
+  "Ending Point" : "Baba Mor",
+  "Station List" : "Nagan Chowrangi\nUP Mor"
+}, {
+  "Vehicle Name" : "J-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/J-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "16",
+  "Starting Point" : "Gulshan Ghazi",
+  "Ending Point" : "IC Bridge",
+  "Station List" : "Gulshan Ghazi\nFaqir Colony\nBaldia 8\nBismillah Chowk\nJungle School (Baldia)\nRubi Mor\nPolice Training Center Saeedabad\nMach Mor\nBaldia 4\nBaldia 3\nBaldia 2\nShershah\nMeezan Head Office\nGulbai\nAgra Taj Colony\nIC Bridge"
+}, {
+  "Vehicle Name" : "JF17",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/JF17-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : "Korangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road\nQayyumabad\nManzoor Colony\nBaloch Colony Stop\nTariq Road\nJail Chowrangi\nEssa Nagri\nLiaquatabad No.10 - Lalukhet"
+}, {
+  "Vehicle Name" : "K-18",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/K-18",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "19",
+  "Starting Point" : "Chungi Ghazi",
+  "Ending Point" : "Millennium Mall",
+  "Station List" : "UP Mor\nNagan Chowrangi"
+}, {
+  "Vehicle Name" : "K-4",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/K-4-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "9",
+  "Starting Point" : "Korangi Crossing Road",
+  "Ending Point" : "Korangi 6",
+  "Station List" : "Korangi Crossing Road\nIndus Hospital - Korangi\nNasir Jump\nKorangi 1\nKorangi 2 ½\nKorangi 3\nKorangi 4\nKorangi 5\nKorangi 6"
+}, {
+  "Vehicle Name" : "K-5",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/K-5",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "24",
+  "Starting Point" : "Makkah Hotel - Sec 5A1 North Karachi",
+  "Ending Point" : "Patel Para (Guru Mandir)",
+  "Station List" : "4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nAnnu Bhai Park\nEnquiry Office\nNazimabad No. 1\nSanitary Market (Gulbahar)\nLasbela\nPatel Para (Guru Mandir)"
+}, {
+  "Vehicle Name" : "K6",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/K6-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "9",
+  "Starting Point" : "Korangi Crossing Road",
+  "Ending Point" : "Korangi 6",
+  "Station List" : "Korangi Crossing Road\nIndus Hospital - Korangi\nNasir Jump\nKorangi 1\nKorangi 2 ½\nKorangi 3\nKorangi 4\nKorangi 5\nKorangi 6"
+}, {
+  "Vehicle Name" : "K-86",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/K-86",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "26",
+  "Starting Point" : "Lyari 50",
+  "Ending Point" : "Guru Mandir",
+  "Station List" : "KDA Flats- Surjani\nKarimi Chowrangi\n4K Chowrangi\n2 Minute Chowrangi\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nSakhi Hasan Chowrangi"
+}, {
+  "Vehicle Name" : "Karachi King",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Karachi-King-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : "Korangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road\nQayyumabad\nManzoor Colony\nBaloch Colony Stop\nTariq Road\nJail Chowrangi\nEssa Nagri\nLiaquatabad No.10 - Lalukhet"
+}, {
+  "Vehicle Name" : "M-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "13",
+  "Starting Point" : "Jamali Flyover",
+  "Ending Point" : "Guru Mandir",
+  "Station List" : "Jamali Flyover\nSachal Mor - Sachal Goth\nPunjab Adda - Bus Stand\nAl Asif Square\nSohrab Goth\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nDaak Khana - Liaquatabad\nTeen Hatti\nJehangir Road\nGuru Mandir"
+}, {
+  "Vehicle Name" : "M-10",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-10",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "7",
+  "Starting Point" : "Lyari Basti - Taiser Town",
+  "Ending Point" : "NIPA Chowrangi",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "M-22",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-22",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : "Korangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road\nQayyumabad\nManzoor Colony\nBaloch Colony Stop\nTariq Road\nJail Chowrangi\nEssa Nagri\nLiaquatabad No.10 - Lalukhet"
+}, {
+  "Vehicle Name" : "M-5",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-5",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "1",
+  "Starting Point" : "Expo Center",
+  "Ending Point" : "Expo Center",
+  "Station List" : "Expo Center"
+}, {
+  "Vehicle Name" : "M-55",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-55",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "27",
+  "Starting Point" : "Lyari Basti - Taiser Town",
+  "Ending Point" : "Saddar",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nLasbela"
+}, {
+  "Vehicle Name" : "M-7",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-7",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "26",
+  "Starting Point" : "Yaroo Khan Goth - Surjani Town",
+  "Ending Point" : "89 Landhi Rd",
+  "Station List" : "Yaroo Khan Goth - Surjani Town\nAllah waali - New Karachi\nKala School Bus Stop - New Karachi\nSindhi Hotel - New Karachi\nNala Stop - New Karachi\nGodhra\nShafiq Mor\nSohrab Goth\nLucky One Mall\nGulshan Chowrangi\nNIPA Chowrangi\nAladin Park\nJohar Mor\nMillennium Mall\nDrigh Road\nChota Gate - Shah Faisal Colony\nShama Shopping Center\nBagh-e-Korangi - Sector 10\nSinger Chowrangi\nK Area - Sherabad Colony\nKorangi 5\nKorangi 6\nChiragh Hotel - Sector 36 E Landhi Town\nLandhi 4\nBabar Market\n89 Landhi Rd"
+}, {
+  "Vehicle Name" : "M-9",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/M-9",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "13",
+  "Starting Point" : "Qayyumabad",
+  "Ending Point" : "NIPA Chowrangi",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "MK 081",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/MK-081",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "0",
+  "Starting Point" : "undefined",
+  "Ending Point" : "undefined",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "N-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "7",
+  "Starting Point" : "NIPA Chowrangi",
+  "Ending Point" : "Kaneez Fatima Society - Gulzar-e-Hijri",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "N-1 Baldia",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-1-Baldia",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "9",
+  "Starting Point" : "Jungle School (Baldia)",
+  "Ending Point" : "Shershah",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "N-55",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-55",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "25",
+  "Starting Point" : "Lyari Basti - Taiser Town",
+  "Ending Point" : "Khairabad - Gulshan-e-Zia",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nRoad 2400 - Aisha Complex\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi"
+}, {
+  "Vehicle Name" : "N-91",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/N-91",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "5",
+  "Starting Point" : "NIPA Chowrangi",
+  "Ending Point" : "Johar Chowrangi",
+  "Station List" : "NIPA Chowrangi\nAladin Park\nJohar Mor\nPerfume Chowk Gulistan-e-Johar\nJohar Chowrangi"
+}, {
+  "Vehicle Name" : "Naseeb",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Naseeb-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "ND-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/ND-1-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "18",
+  "Starting Point" : "Umer Goth",
+  "Ending Point" : "Daak Khana - Liaquatabad",
+  "Station List" : "UP Mor\nNagan Chowrangi\nErum Shopping"
+}, {
+  "Vehicle Name" : "P-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/P-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "0",
+  "Starting Point" : "",
+  "Ending Point" : "",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "Razaq",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Razaq-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Korangi 5",
+  "Ending Point" : "Liaquatabad No.10 - Lalukhet",
+  "Station List" : "Korangi 5\nKorangi 4\nKorangi 3\nKorangi 2 ½\nKorangi 1\nNasir Jump\nIndus Hospital - Korangi\nKorangi Crossing Road\nQayyumabad\nManzoor Colony\nBaloch Colony Stop\nTariq Road\nJail Chowrangi\nEssa Nagri\nLiaquatabad No.10 - Lalukhet"
+}, {
+  "Vehicle Name" : "R-S",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-S",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "1",
+  "Starting Point" : "Johar Chowrangi",
+  "Ending Point" : "Johar Chowrangi",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "S-2",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/S-2",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "10",
+  "Starting Point" : "Daak Khana - Liaquatabad",
+  "Ending Point" : "Alnoor mor",
+  "Station List" : "Daak Khana - Liaquatabad\nLiaquatabad No.10 - Lalukhet\nKarimabad - Meena Bazaar\nMoosa Colony - Gulberg Town\nZiauddin Hospital - North Nazimabad\nLandi Kotal Chowrangi Roundabout\nPeoples Chowrangi\nPiyala Hotel - Peoples Colony\nGulberg Chowrangi\nAlnoor mor"
+}, {
+  "Vehicle Name" : "S-7",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/S-7",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "11",
+  "Starting Point" : "Khawaja Ajmer Nagri",
+  "Ending Point" : "Teen Hatti",
+  "Station List" : "Sakhi Hasan Chowrangi"
+}, {
+  "Vehicle Name" : "S-K",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/S-K-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "20",
+  "Starting Point" : "Al Asif Square",
+  "Ending Point" : "Ittehad Town",
+  "Station List" : "Sakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi"
+}, {
+  "Vehicle Name" : "Sultan",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Sultan-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "23",
+  "Starting Point" : "Liaquatabad No.10 - Lalukhet",
+  "Ending Point" : "Korangi 5",
+  "Station List" : "Liaquatabad No.10 - Lalukhet\nEssa Nagri\nJail Chowrangi\nTariq Road\nBaloch Colony Stop\nManzoor Colony\nQayyumabad\nKorangi Crossing Road\nIndus Hospital - Korangi\nNasir Jump\nKorangi 1\nKorangi 2 ½\nKorangi 3\nKorangi 4\nLandhi 6\nLandhi 5\nLandhi 4\nLandhi 3\nLandhi 2\nLandhi 1\n89 Landhi Rd\nDawood Chowrangi\nKorangi 5"
+}, {
+  "Vehicle Name" : "T-10",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/T-10",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "21",
+  "Starting Point" : "Daak Khana - Liaquatabad",
+  "Ending Point" : "Surjani - Sector 7A",
+  "Station List" : "Hyderi Market\nFive Star Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nSakhi Hasan Chowrangi\nErum Shopping\nNagan Chowrangi\nUP Mor\nPower House Chowrangi\n2 Minute Chowrangi\n4K Chowrangi\nKarimi Chowrangi\nKDA Flats- Surjani"
+}, {
+  "Vehicle Name" : "T-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/T-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "22",
+  "Starting Point" : "Daak Khana - Liaquatabad",
+  "Ending Point" : "Surjani - Sector 7A",
+  "Station List" : "Board Office Chowrangi\nFive Star Chowrangi\nHyderi Market\nJummah Bazar (Bhayani Shopping Center)\nSakhi Hasan Chowrangi\nErum Shopping\nNagan Chowrangi\nUP Mor\nPower House Chowrangi\n2 Minute Chowrangi\n4K Chowrangi\nKarimi Chowrangi\nKDA Flats- Surjani"
+}, {
+  "Vehicle Name" : "T-99",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/T-99-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "23",
+  "Starting Point" : "Mansoor Nagar (Maa Hospital)",
+  "Ending Point" : "Abdullah Mor - Surjani",
+  "Station List" : "Board Office Chowrangi\nFive Star Chowrangi\nHyderi Market\nSakhi Hasan Chowrangi\nNagan Chowrangi\nUP Mor\nRoad 4200 - Saleem Centre\nPower House Chowrangi\n2 Minute Chowrangi\n4K Chowrangi\nKDA Flats- Surjani"
+}, {
+  "Vehicle Name" : "U-5",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/U-5",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "13",
+  "Starting Point" : "Machchi Market (New Karachi)",
+  "Ending Point" : "KDA Chowrangi",
+  "Station List" : "Power House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nHyderi Market\nFive Star Chowrangi"
+}, {
+  "Vehicle Name" : "V-1",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/V-1",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "22",
+  "Starting Point" : "Baba Mor",
+  "Ending Point" : "Garden",
+  "Station List" : "UP Mor\nNagan Chowrangi\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market\nBoard Office Chowrangi\nAnnu Bhai Park\nEnquiry Office\nNazimabad No. 1\nSanitary Market (Gulbahar)\nLasbela"
+}, {
+  "Vehicle Name" : "W-11 Chinchi",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-11-Chinchi",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "15",
+  "Starting Point" : "Gulshan Ghazi",
+  "Ending Point" : "Daak Khana - Liaquatabad",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "W-86",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/W-86",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "21",
+  "Starting Point" : "Lyari Basti - Taiser Town",
+  "Ending Point" : "Teen Hatti",
+  "Station List" : "KDA Flats- Surjani\n4K Chowrangi\n2 Minute Chowrangi\nPower House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi"
+}, {
+  "Vehicle Name" : "X-2",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/X-2",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "11",
+  "Starting Point" : "ICI Bridge",
+  "Ending Point" : "Yousuf Goth",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "Z",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Z",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "6",
+  "Starting Point" : "Ittehad Town",
+  "Ending Point" : "Islam Chowk - Orangi Town",
+  "Station List" : "Ittehad Town\nEid Gah Morh - Orangi\nL Block Rd - Aziz Nagar\nOrangi 5\nDabba Mor - Orangi Town\nIslam Chowk - Orangi Town"
+}, {
+  "Vehicle Name" : "Z-4",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/Z-4",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fchinchi.png&w=384&q=75",
+  "Vehicle Type" : "Chinchi",
+  "Total Stops" : "5",
+  "Starting Point" : "Shershah",
+  "Ending Point" : "Haroonabad",
+  "Station List" : "Shershah\nGhani Chowrangi\nSiemens Chowrangi\nHabib Bank Chowrangi\nHaroonabad"
+}, {
+  "Vehicle Name" : "EV-01",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/EV-01",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "28",
+  "Starting Point" : "CMH Malir Cantt",
+  "Ending Point" : "Dolmen Mall - Clifton",
+  "Station List" : "CMH Malir Cantt\nTank Chowk\nModel Colony Mor\nMalir Halt\nSecurity Printing Press\nWireless Gate Bus Stop\nChhota Gate\nShah Faisal Colony Gate\nNata Khan\nDrigh Road\nPAF Base Faisal\nKarsaz\nPAF Museum\nAwami Markaz\nBaloch Colony Stop\nFine House\nLaal Kothi Bus Stop\nNursery\nFTC Building\nKala Pul\nNMC Hospital\nSunset Boulevard\nDefence Mor\nRahat Park - DHA Phase 7\nAyesha Masjid - DHA\nBadar Commercial 26 Street\nClock Tower DHA\nDolmen Mall - Clifton"
+}, {
+  "Vehicle Name" : "EV-02",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/EV-02",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "8",
+  "Starting Point" : "Bahria Town",
+  "Ending Point" : "Malir Halt",
+  "Station List" : "Bahria Town\nKarachi Toll Plaza - M9\nBaqai University\nCheck Post 5 Malir Cantt\nCheck Post 6 Malir Cantt\nModel Colony Mor\nSecurity Printing Press\nMalir Halt"
+}, {
+  "Vehicle Name" : "EV-03",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/EV-03",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "12",
+  "Starting Point" : "Check Post 5 Malir Cantt",
+  "Ending Point" : "Numaish Chowrangi",
+  "Station List" : "Numaish Chowrangi"
+}, {
+  "Vehicle Name" : "EV-04",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/EV-04",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "6",
+  "Starting Point" : "Ayesha Manzil",
+  "Ending Point" : "Bahria Town",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "EV-05",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/EV-05",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "9",
+  "Starting Point" : "Al Asif Square",
+  "Ending Point" : "DHA City Karachi",
+  "Station List" : "Al Asif Square\nMaymar Mor\nNew Sabzi Mandi\nBaqai University\nKarachi Toll Plaza - M9\nDumba Goth\nBahria Town\nKathore\nDHA City Karachi"
+}, {
+  "Vehicle Name" : "R-01",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-01",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Model Colony Mor",
+  "Ending Point" : "Dockyard",
+  "Station List" : ""
+}, {
+  "Vehicle Name" : "R-02",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-02",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "29",
+  "Starting Point" : "Power House Chowrangi",
+  "Ending Point" : "Indus Hospital - Korangi",
+  "Station List" : "Power House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nShafiq Mor\nSohrab Goth\nSagheer Centre - FB Area\nLucky One Mall\nImtiaz Mega Store - Gulshan\nGulshan Chowrangi\nNIPA Chowrangi\nAladin Park\nJohar Chowrangi\nJohar Mor\nMillennium Mall\nArmy Public School\nDrigh Road\nShama Shopping Center\nShah Faisal Colony 2\nSinger Chowrangi\nKhaddi Stop\nSector 36 Landhi\nSector 35 Landhi\nSector 33 Korangi\nSector 32 Landhi\nGulzar Colony\nNasir Jump\nDistrict Court Korangi\nIndus Hospital - Korangi"
+}, {
+  "Vehicle Name" : "R-03",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-03",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "39",
+  "Starting Point" : "Power House Chowrangi",
+  "Ending Point" : "Nasir Jump",
+  "Station List" : "Power House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nErum Shopping\nSakhi Hasan Chowrangi\nJummah Bazar (Bhayani Shopping Center)\nFive Star Chowrangi\nHyderi Market"
+}, {
+  "Vehicle Name" : "R-04",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-04",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "25",
+  "Starting Point" : "Power House Chowrangi",
+  "Ending Point" : "Port Grand Karachi",
+  "Station List" : "Power House Chowrangi\nRoad 4200 - Saleem Centre\nUP Mor\nNagan Chowrangi\nShafiq Mor\nSohrab Goth\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nDaak Khana - Liaquatabad\nTeen Hatti\nJehangir Road\nNew Town\nNumaish Chowrangi\nGul Plaza\nTibet Center\nMobile Market Saddar\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nCity Court\nBolton Market\nTower\nPort Grand Karachi"
+}, {
+  "Vehicle Name" : "R-09",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-09",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "40",
+  "Starting Point" : "Gulshan e Hadeed",
+  "Ending Point" : "Tower",
+  "Station List" : "Gulshan e Hadeed\nSalahuddin Ayubi Road\nNational Highway 5\nSteel Mill Mor\nPort Qasim Mor\nRazzaqabad\nAbdullah Goth\nChowkandi Mor\nFAST University - Bhains Colony\nBhains Colony Mor\nManzil Pump\nQuaidabad\nMurghi Khana\nNadra Center\nMalir Court\nMalir 15\nKala Board Malir\nMalir Halt\nWireless Gate Bus Stop\nChhota Gate\nShah Faisal Colony Gate\nNata Khan\nDrigh Road\nPAF Base Faisal\nKarsaz\nPAF Museum\nAwami Markaz\nBaloch Colony Stop\nFine House\nLaal Kothi Bus Stop\nNursery\nFTC Building\nAisha Bawany College\nRegent Plaza\nMetropole\nArts Council of Pakistan Karachi\nShaheen Complex\nCity Railway\nI.I. Chundrigar\nTower"
+}, {
+  "Vehicle Name" : "R-10",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-10",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "18",
+  "Starting Point" : "Numaish Chowrangi",
+  "Ending Point" : "Ibrahim Hyderi",
+  "Station List" : "Numaish Chowrangi"
+}, {
+  "Vehicle Name" : "R-11",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-11",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "18",
+  "Starting Point" : "Miran Nakka Lyari",
+  "Ending Point" : "Shireen Jinnah Colony",
+  "Station List" : "Miran Nakka Lyari\nGulistan Colony\nBihar Colony\nAgra Taj Colony\nDaryabad\nDockyard\nKPT Bridge\nBahria Complex 3\nMT Khan Road\nPIDC\nBahria Complex 4\nSubmarine Chowk\nKhadda Market\nAbdullah Shah Ghazi\nBilawal Chowrangi\nSouth City Hospital - Clifton\nZiauddin University - Clifton\nShireen Jinnah Colony"
+}, {
+  "Vehicle Name" : "R-12",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-12",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "33",
+  "Starting Point" : "Memon Goth - Gadap Town",
+  "Ending Point" : "FTC Building",
+  "Station List" : "Memon Goth - Gadap Town\nSommar Chandani Goth\nAlize Garden\nFalaknaz Dreams - Gadap Town\nNaddi Kinara\nKhokhrapar\nSaudabad Chowrangi\nRCD Ground\nKala Board Malir\nMalir 15\nMalir Court\nNadra Center\nMurghi Khana\nQuaidabad\nDawood Chowrangi\nBabar Market\nSector 36 Landhi\nSector 35 Landhi\nSector 33 Korangi\nSector 32 Landhi\nGulzar Colony\nNasir Jump\nKorangi Crossing Road\nDistrict Court Korangi\nIndus Hospital - Korangi\nDefence Mor\nSunset Boulevard\nJut Land\nNMC Hospital\nKala Pul\nLines Area\nLucky Star - Saddar\nFTC Building"
+}, {
+  "Vehicle Name" : "R-13",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-13",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "6",
+  "Starting Point" : "Tower",
+  "Ending Point" : "Hawksbay Beach",
+  "Station List" : "Tower\nICI Bridge\nAgra Taj Colony\nGulbai\nPAF Masroor\nHawksbay Beach"
+}, {
+  "Vehicle Name" : "R-14",
+  "Vehicle URL" : "https://mnzil.app/./vehicles/R-14",
+  "Vehicle Image" : "https://mnzil.app/_next/image?url=%2Fbrt-bus.png&w=384&q=75",
+  "Vehicle Type" : "Peoples Bus",
+  "Total Stops" : "27",
+  "Starting Point" : "Nawaz Sharif Park - Gulshan-E-Maymar",
+  "Ending Point" : "Tower",
+  "Station List" : "Nawaz Sharif Park - Gulshan-E-Maymar\nAhsanabad\nMaymar Mor\nJamali Flyover\nSachal Mor - Sachal Goth\nPunjab Adda - Bus Stand\nAl Asif Square\nSohrab Goth\nWater Pump\nAyesha Manzil\nKarimabad - Meena Bazaar\nLiaquatabad No.10 - Lalukhet\nDaak Khana - Liaquatabad\nTeen Hatti\nJehangir Road\nGuru Mandir\nNumaish Chowrangi\nGul Plaza\nTibet Center\nMobile Market Saddar\nUrdu Bazar\nJama Cloth Market\nCivil Hospital\nLight House\nCity Court\nBolton Market\nTower"
+} ]
