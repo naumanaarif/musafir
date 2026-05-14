@@ -4,14 +4,15 @@ Reads musafir.db → uploads routes/stops to Supabase → generates embeddings v
 
 Run:  python upload_to_supabase.py
 """
-import sqlite3, os, json, time
+import sqlite3, os, time
 from pathlib import Path
 from dotenv import load_dotenv
 
 # Load backend .env
 load_dotenv(dotenv_path=Path(__file__).parent / "backend" / ".env")
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types as genai_types
 from supabase import create_client, Client
 
 # ── Config ────────────────────────────────────────────────────────────────────
@@ -19,10 +20,10 @@ SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://gehrzlsyunmpbakyrkcc.supa
 SUPABASE_KEY = os.environ.get("SUPABASE_SERVICE_KEY", "")   # service role for writes
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCGYsyBCx2bXqDtRZGtIuL1-nEd1iqT3vQ")
 DB_PATH = os.path.join(os.path.dirname(__file__), "musafir.db")
-EMBEDDING_MODEL = "models/text-embedding-004"
+EMBEDDING_MODEL = "gemini-embedding-exp-03-07"   # latest stable embedding model
 
 # ── Init clients ──────────────────────────────────────────────────────────────
-genai.configure(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY)
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def read_sqlite():
@@ -67,12 +68,12 @@ def build_knowledge_blob(route: dict, stops: list[str]) -> str:
 
 
 def get_embedding(text: str) -> list[float]:
-    result = genai.embed_content(
+    response = client.models.embed_content(
         model=EMBEDDING_MODEL,
-        content=text,
-        task_type="retrieval_document",
+        contents=text,
+        config=genai_types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT"),
     )
-    return result["embedding"]
+    return response.embeddings[0].values
 
 
 def upload_modes(modes):
@@ -141,9 +142,9 @@ def upload_embeddings(routes, route_stop_map):
                 }
             }
             supabase.table("route_embeddings").insert(record).execute()
-            print(f"  [{i+1}/{len(to_embed)}] ✓ {route['name']}")
+            print(f"  [{i+1}/{len(to_embed)}] OK {route['name']}")
         except Exception as e:
-            print(f"  [{i+1}/{len(to_embed)}] ✗ {route['name']}: {e}")
+            print(f"  [{i+1}/{len(to_embed)}] FAIL {route['name']}: {e}")
 
         # Rate limit: Gemini embed API allows ~1500 req/min
         if (i + 1) % 50 == 0:
@@ -166,7 +167,7 @@ def main():
     upload_route_stops(routes, route_stop_map)
     upload_embeddings(routes, route_stop_map)
 
-    print("\n✅ All data uploaded to Supabase successfully!")
+    print("\nAll data uploaded to Supabase successfully!")
     print(f"   Modes: {len(modes)}")
     print(f"   Stops: {len(stops)}")
     print(f"   Routes: {len(routes)}")

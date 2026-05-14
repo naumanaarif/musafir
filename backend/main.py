@@ -18,16 +18,19 @@ from dotenv import load_dotenv
 # Load .env from backend folder
 load_dotenv(dotenv_path=Path(__file__).parent / ".env")
 
-import google.generativeai as genai
+import google.generativeai as genai_legacy   # keep for GenerativeModel fallback
+from google import genai
+from google.genai import types as genai_types
 from supabase import create_client, Client
 
 # ── Config ────────────────────────────────────────────────────────────────────
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://gehrzlsyunmpbakyrkcc.supabase.co")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")          # anon key is fine for reads
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCGYsyBCx2bXqDtRZGtIuL1-nEd1iqT3vQ")
-EMBED_MODEL = "models/text-embedding-004"
+EMBED_MODEL = "gemini-embedding-exp-03-07"
 
-genai.configure(api_key=GEMINI_API_KEY)
+genai_legacy.configure(api_key=GEMINI_API_KEY)
+gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 app = FastAPI(title="Musafir AI API", version="1.0.0")
@@ -151,7 +154,7 @@ async def get_route(route_id: str):
 @app.post("/api/ai-guidance")
 async def ai_guidance(req: GuidanceRequest):
     """
-    Gemini 2.5 Pro — rich journey narrative with local Karachi knowledge.
+    Gemini 2.0 Flash — rich journey narrative with local Karachi knowledge.
     Combines RAG-retrieved routes with AI generation.
     """
     routes_text = "\n".join([
@@ -164,7 +167,7 @@ async def ai_guidance(req: GuidanceRequest):
 FROM: {req.origin}
 TO: {req.destination}
 
-Matching routes from Mnzil database:
+Matching routes from database:
 {routes_text}
 
 Give a concise, practical journey plan (2-3 sentences) covering:
@@ -175,15 +178,21 @@ Give a concise, practical journey plan (2-3 sentences) covering:
 Be friendly and specific to Karachi. Reply in plain text only."""
 
     try:
-        model = genai.GenerativeModel("gemini-2.5-pro")
-        response = model.generate_content(prompt)
-        return {"guidance": response.text, "model": "gemini-2.5-pro"}
+        # Use the modern google-genai client
+        response = gemini_client.models.generate_content(
+            model="gemini-2.0-flash",
+            contents=prompt
+        )
+        return {"guidance": response.text, "model": "gemini-2.0-flash"}
     except Exception as e:
-        # Fallback to flash-lite
+        print(f"AI Guidance error: {e}")
+        # Fallback to 1.5 flash
         try:
-            model = genai.GenerativeModel("gemini-2.0-flash-lite")
-            response = model.generate_content(prompt)
-            return {"guidance": response.text, "model": "gemini-2.0-flash-lite"}
+            response = gemini_client.models.generate_content(
+                model="gemini-1.5-flash",
+                contents=prompt
+            )
+            return {"guidance": response.text, "model": "gemini-1.5-flash"}
         except Exception as e2:
             raise HTTPException(status_code=500, detail=str(e2))
 
