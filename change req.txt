@@ -1,0 +1,114 @@
+# Change Request — Musafir AI
+# Generated from: spec-kit.md v1.1
+# Date: May 2026
+
+==============================================================
+CHANGE REQUEST: Python Backend Dependencies & Environment Setup
+==============================================================
+
+## Summary
+Based on the Musafir AI Spec Kit v1.1, the Python backend (FastAPI) requires
+the following libraries to support:
+  - Route Orchestration (FastAPI)
+  - RAG Pipeline (LangChain + Vertex AI / ChromaDB)
+  - AI Agent (Gemini API via Google Generative AI SDK)
+  - Web Scraper for Mnzl corpus ingestion (Playwright + Requests)
+  - Voice Input Processing (Google Cloud Speech-to-Text)
+  - Firebase integration (Auth / Firestore)
+  - Multilingual NLP utilities
+  - Data cleaning and transformation scripts
+
+==============================================================
+NEW / UPDATED requirements.txt — Derived from spec-kit.md
+==============================================================
+
+### Core Web Framework
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+### AI / Gemini
+google-generativeai               # Gemini API (Google AI Studio)
+google-cloud-aiplatform           # Vertex AI Embeddings + Matching Engine
+vertexai                          # Vertex AI SDK shorthand
+
+### RAG / LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai            # LangChain x Gemini
+langchain-google-vertexai         # LangChain x Vertex AI
+chromadb                          # Local vector store (dev/testing)
+faiss-cpu                         # Alternate vector store (dev)
+sentence-transformers             # Local embeddings fallback
+tiktoken                          # Token counting for context windows
+
+### Web Scraper (Mnzl corpus pipeline)
+playwright                        # Headless browser scraping
+requests                          # HTTP requests
+beautifulsoup4                    # HTML parsing
+lxml                              # Fast XML/HTML parser
+
+### Data Processing & Cleaning
+pandas                            # Route/stop dataset manipulation
+numpy                             # Numeric operations
+python-slugify                    # Stop name normalisation
+
+### Google Cloud APIs
+google-cloud-speech               # Google Cloud Speech-to-Text (voice input)
+google-cloud-translate            # Google Translate API (language detection)
+googlemaps                        # Google Maps Python client (Directions, Places, Geocoding)
+
+### Firebase
+firebase-admin                    # Firebase Admin SDK (Firestore, Auth)
+
+### Utilities
+httpx                             # Async HTTP client (for FastAPI integrations)
+aiofiles                          # Async file I/O
+python-multipart                  # multipart/form-data (voice file uploads)
+uvloop                            # High-performance async event loop (Linux/Mac)
+
+### (Retained from previous requirements.txt — still relevant)
+langchain-groq                    # Groq inference fallback (optional)
+pypdf                             # PDF parsing (corpus ingestion)
+crewai                            # Multi-agent orchestration (optional)
+crewai-tools                      # CrewAI tool extensions
+tavily-python                     # Web search tool for RAG agent
+streamlit                         # Internal testing / admin dashboard (optional)
+
+==============================================================
+REMOVED from old requirements.txt
+==============================================================
+# None removed — all previous packages retained. New ones added on top.
+
+==============================================================
+VIRTUAL ENVIRONMENT SETUP INSTRUCTIONS
+==============================================================
+
+1. Create venv:
+   python -m venv .venv
+
+2. Activate (Windows PowerShell):
+   .venv\Scripts\Activate.ps1
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Install Playwright browsers (for Mnzl scraper):
+   playwright install chromium
+
+==============================================================
+OPEN QUESTIONS (from spec-kit.md Section 17)
+==============================================================
+
+Q3: Will Google Stitch export support RTL layouts natively?           [Open]
+Q4: Can Chinchi zones be modelled as a transit mode in routing?       [Open]
+Q5: What is the monthly budget cap for Google Maps API calls?         [Open]
+Q6: Mnzl scrape refresh cadence — how frequently does Mnzl update?   [Open]
+Q7: Operator data partnership possible with KTC?                      [Open]
+Q8: Should the app support offline-first routing?                     [Open]
+
+==============================================================
+END OF CHANGE REQUEST
+==============================================================
