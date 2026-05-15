@@ -1,10 +1,4 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/77f1975e-ba45-4043-8ab4-67806ff156b2" 
-    alt="Gemini Generated Image"
-    width="100%"
-  />
-</p>
+![Musafir AI - Homepage](banner_homepage.png)
 
 # Musafir AI 🚌 — Karachi Transit Planner
 
