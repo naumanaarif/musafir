@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/77f1975e-ba45-4043-8ab4-67806ff156b2" 
+    alt="Gemini Generated Image"
+    width="100%"
+  />
+</p>
+
 # Musafir AI 🚌 — Karachi Transit Planner
 
 Musafir is an AI-powered transit planning application designed specifically for Karachi's unique public transport ecosystem. It combines real-world local data with the power of **Google Gemini 1.5 Flash** and **Supabase pgvector** to provide accurate, context-aware bus routes and transit advice.
