@@ -113,7 +113,7 @@ export default function Home() {
         {/* ── Hero ── */}
         <div className="text-center mb-10">
           <h1 className="text-4xl md:text-[2.6rem] font-extrabold text-primary leading-tight mb-3 tracking-tight">
-            Where are you headed?
+            Where do you want to go?
           </h1>
           <p className="text-xl font-medium text-on-surface-variant" style={{ fontFamily: 'serif', direction: 'rtl' }}>
             آپ کہاں جانا چاہتے ہیں؟
