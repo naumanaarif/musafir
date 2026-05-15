@@ -71,4 +71,4 @@ npm run dev
 4. Follow the step-by-step navigation for your journey!
 
 ---
-Built for the Google Gemini Hackathon.
+> Built for the National AI Hackathon 2026, Karachi.
