@@ -26,7 +26,7 @@ from supabase import create_client, Client
 # ── Config ────────────────────────────────────────────────────────────────────
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://gehrzlsyunmpbakyrkcc.supabase.co")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")          # anon key is fine for reads
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCGYsyBCx2bXqDtRZGtIuL1-nEd1iqT3vQ")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 EMBED_MODEL = "gemini-embedding-exp-03-07"
 
 genai_legacy.configure(api_key=GEMINI_API_KEY)
